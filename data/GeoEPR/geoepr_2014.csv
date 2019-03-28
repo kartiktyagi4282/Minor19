@@ -1,0 +1,913 @@
+Y,X,gwid,statename,from,to,group,groupid,gwgroupid,umbrella,sqkm,type
+,,2,United States,1946,2013,Whites,1000,201000,,9447198,Statewide
+,,2,United States,1946,2013,American Indians,5000,205000,,2434682,Regionally based
+,,2,United States,1946,2013,African Americans,3000,203000,,1039029,Statewide
+,,2,United States,1966,2013,Asian Americans,4000,204000,,,Urban
+,,2,United States,1966,2013,Arab Americans,6000,206000,,,Urban
+,,2,United States,1966,2013,Latinos,2000,202000,,1882927,Regional & urban
+,,20,Canada,1946,1948,Aboriginal peoples,4000,2004000,,3242297,Regionally based
+,,20,Canada,1946,1948,English speakers,1000,2001000,,2174437,Regional & urban
+,,20,Canada,1946,1948,French speakers,2000,2002000,,452237,Regional & urban
+,,20,Canada,1949,2013,Aboriginal peoples,4000,2004000,,3260962,Regionally based
+,,20,Canada,1949,2013,English speakers,1000,2001000,,2285631,Regional & urban
+,,20,Canada,1949,2013,French speakers,2000,2002000,,541218,Regional & urban
+,,40,Cuba,1946,2009,Whites,1000,4001000,,109496,Statewide
+,,40,Cuba,1946,2009,Blacks,2000,4002000,,109496,Statewide
+,,52,Trinidad and Tobago,1962,2013,Blacks,2000,5202000,,5031,Statewide
+,,52,Trinidad and Tobago,1962,2013,East Indians,1000,5201000,,4718,Regional & urban
+,,70,Mexico,1946,2013,Mestizos,1000,7001000,,1961273,Statewide
+,,90,Guatemala,1946,2013,Ladinos,1000,9001000,,109407,Statewide
+,,90,Guatemala,1946,2013,Xinca,4000,9004000,,331,Regionally based
+,,90,Guatemala,1946,2013,Garífuna,3000,9003000,,83,Regionally based
+,,70,Mexico,1946,2013,Other indigenous groups,3000,7003000,,327529,Regionally based
+,,95,Panama,1946,2013,Afropanamanians,2000,9502000,,341,Regional & urban
+,,771,Bangladesh,1972,2013,Bengali Hindus,1000,77101000,,,Dispersed
+,,771,Bangladesh,1972,2013,Biharis (Urdu-Speaker),4000,77104000,,,Urban
+,,70,Mexico,1946,2013,Maya,2000,7002000,,103868,Regionally based
+,,70,Mexico,1946,2013,Afromexicans,9000,7009000,,15880,Regionally based
+,,90,Guatemala,1946,2013,Maya,2000,9002000,,51294,Regional & urban
+,,91,Honduras,1946,2013,Whites/mestizos,6000,9106000,,112619,Statewide
+,,91,Honduras,1946,2013,Garifuna,10000,9110000,,2919,Regionally based
+,,95,Panama,1960,2013,Ngobe-Bugle,3000,9503000,,6856,Regionally based
+,,771,Bangladesh,1972,2013,Bengali Muslims,2000,77102000,,125454,Regional & urban
+,,91,Honduras,1975,2013,"Indigenous peoples (Lenca, Maya-Chorti, Miskito, Tawahka/Sumu, Xicaque, Pech, Nahua)",7000,9107000,,9214,Regionally based
+,,92,El Salvador,1946,2013,Whites/mestizos,1000,9201000,,20646,Statewide
+,,92,El Salvador,1946,2013,Indigenous peoples,2000,9202000,,9881,Regionally based
+,,565,Namibia,1990,2013,Kavango,6000,56506000,,13013,Regionally based
+,,93,Nicaragua,1946,2013,Whites/mestizos,1000,9301000,,109471,Regional & urban
+,,93,Nicaragua,1946,2013,Miskitos,3000,9303000,,9890,Regionally based
+,,93,Nicaragua,1946,2013,Sumus,5000,9305000,,8385,Regionally based
+,,93,Nicaragua,1946,2013,Afronicaraguans,2000,9302000,,1481,Regional & urban
+,,94,Costa Rica,1946,2013,Whites/mestizos,1000,9401000,,51287,Statewide
+,,94,Costa Rica,1946,2013,Indigenous peoples,3000,9403000,,6356,Regionally based
+,,94,Costa Rica,1946,2013,Afro-Costa Ricans,2000,9402000,,1375,Regional & urban
+,,95,Panama,1960,2013,Choco (Embera-Wounan),5000,9505000,,3426,Regionally based
+,,100,Colombia,1946,2013,Indigenous peoples,3000,10003000,,734377,Regionally based
+,,100,Colombia,1946,2013,Whites/mestizos,1000,10001000,,555156,Statewide
+,,571,Botswana,1966,2013,Herero/Mbanderu,4000,57104000,,,Dispersed
+,,571,Botswana,1966,2013,White,5000,57105000,,,Dispersed
+,,571,Botswana,1966,2013,San,11000,57111000,,,Dispersed
+,,95,Panama,1946,2013,Whites/mestizos,1000,9501000,,74446,Statewide
+,,95,Panama,1946,2013,Kuna,4000,9504000,,2921,Regionally based
+,,100,Colombia,1946,2013,Afrocolumbians,2000,10002000,,41782,Regional & urban
+,,101,Venezuela,1946,2013,Whites/mestizos,1000,10101000,,476358,Statewide
+,,101,Venezuela,1970,2013,Indigenous peoples,3000,10103000,,449499,Regionally based
+,,101,Venezuela,2000,2013,Afrovenezuelans,2000,10102000,,11483,Regionally based
+,,110,Guyana,1966,2013,Afro-Guyanese,2000,11002000,,10831,Regional & urban
+,,225,Switzerland,1946,2013,Swiss Italians,3000,22503000,,4283,Regional & urban
+,,230,Spain,1946,2013,Roma,5000,23005000,,,Migrant
+,,230,Spain,1946,2013,Spanish,1000,23001000,,428476,Regional & urban
+,,110,Guyana,1966,2013,Indigenous peoples,3000,11003000,,76085,Regionally based
+,,110,Guyana,1966,2013,Indo-Guyanese,1000,11001000,,10831,Regional & urban
+,,620,Libya,1951,2013,Berbers,5000,62005000,,8531,Regional & urban
+,,130,Ecuador,1946,1970,Whites/mestizos,2000,13002000,,99499,Regional & urban
+,,551,Zambia,1964,2013,Nyanja speakers (Easterners),6000,55106000,,27890,Regionally based
+,,130,Ecuador,1946,2013,Indigenous highland peoples (Kichwa),3000,13003000,,71767,Regional & urban
+,,625,Sudan,1956,2013,Nuba,7000,62507000,,83490,Regionally based
+,,130,Ecuador,1946,2013,Afro-Ecuadorians,5000,13005000,,23586,Regional & urban
+,,130,Ecuador,1946,2013,"Indigenous lowland peoples (Shuar, Achuar etc.)",4000,13004000,,23528,Regionally based
+,,130,Ecuador,1971,2013,Whites/mestizos,2000,13002000,,256452,Statewide
+,,135,Peru,1946,2013,Indigenous peoples of the Amazon,5000,13505000,,354830,Regionally based
+,,135,Peru,1946,2013,Whites/mestizos,2000,13502000,,351383,Regional & urban
+,,135,Peru,1946,2013,Indigenous peoples of the Andes,1000,13501000,,333723,Regionally based
+,,211,Belgium,1946,2013,Flemings,1000,21101000,,13755,Regional & urban
+,,135,Peru,1946,2013,Afroperuvians,4000,13504000,,74240,Regional & urban
+,,140,Brazil,1978,2013,Whites,1000,14001000,,8504608,Statewide
+,,140,Brazil,1978,2013,Indigenous peoples,3000,14003000,,3581593,Regionally based
+,,145,Bolivia,1946,2013,Aymara,5000,14505000,,91510,Regional & urban
+,,140,Brazil,1978,2013,Afrobrazilians,2000,14002000,,571491,Statewide
+,,145,Bolivia,1946,2013,Whites/mestizos,4000,14504000,,1090257,Statewide
+,,145,Bolivia,1946,2013,Guaraní and other eastern indigenous groups,6000,14506000,,66569,Regionally based
+,,211,Belgium,1973,2013,Germans,3000,21103000,,1158,Regional & urban
+,,220,France,1946,2013,Roma,4000,22004000,,,Migrant
+,,145,Bolivia,1946,2013,Quechua,3000,14503000,,319294,Regional & urban
+,,220,France,1946,2013,French,1000,22001000,,510885,Statewide
+,,150,Paraguay,1946,2009,Whites/mestizos,1000,15001000,,399757,Statewide
+,,551,Zambia,1964,2013,Lunda (NW Province),4000,55104000,,25830,Regionally based
+,,150,Paraguay,1946,2009,Tupi-Guaraní and other indigenous groups,5000,15005000,,189056,Regionally based
+,,155,Chile,1946,2013,Whites/mestizos,1000,15501000,,436648,Statewide
+,,200,United Kingdom,1946,2013,Protestants In N. Ireland,7000,20007000,,5212,Regional & urban
+,,155,Chile,1946,2013,Mapuche,2000,15502000,,82530,Regionally based
+,,155,Chile,1946,2013,Other indigenous groups,3000,15503000,,59852,Regionally based
+,,160,Argentina,1946,2013,Whites/mestizos,1000,16001000,,2781219,Statewide
+,,160,Argentina,1946,2013,Indigenous peoples,2000,16002000,,677484,Regional & urban
+,,200,United Kingdom,1972,2013,Asians,3000,20003000,,,Urban
+,,200,United Kingdom,1972,2013,Afro-Caribbeans,4000,20004000,,,Urban
+,,220,France,1946,2013,Corsicans,3000,22003000,,8766,Regional & urban
+,,165,Uruguay,1946,2013,Whites/mestizos,1000,16501000,,177959,Statewide
+,,165,Uruguay,1989,2013,Afro-Uruguayans,2000,16502000,,,Urban
+,,200,United Kingdom,1946,2013,English,1000,20001000,,139712,Regional & urban
+,,200,United Kingdom,1946,2013,Scots,2000,20002000,,67531,Regional & urban
+,,211,Belgium,1946,2013,Walloon,2000,21102000,,15671,Regional & urban
+,,200,United Kingdom,1946,2013,Welsh,5000,20005000,,19952,Regional & urban
+,,200,United Kingdom,1946,2013,Catholics In N. Ireland,6000,20006000,,8295,Regional & urban
+,,220,France,1946,2013,Basques,2000,22002000,,2573,Regional & urban
+,,225,Switzerland,1946,2013,Swiss Germans,1000,22501000,,23724,Regional & urban
+,,225,Switzerland,1946,2013,Swiss French,2000,22502000,,9926,Regional & urban
+,,230,Spain,1946,2013,Catalans,2000,23002000,,47374,Regional & urban
+,,230,Spain,1946,2013,Basques,4000,23004000,,11586,Regional & urban
+,,551,Zambia,1964,2013,Lozi (Barotse),3000,55103000,,24322,Regionally based
+,,552,Zimbabwe,1965,2013,Europeans,2000,55202000,,,Dispersed
+,,230,Spain,1979,2013,Galician,3000,23003000,,35111,Regional & urban
+,,290,Poland,1946,2013,Ukrainians,3000,29003000,,,Dispersed
+,,290,Poland,1946,1989,European and American Jews,5000,29005000,,,Dispersed
+,,290,Poland,1946,2013,Roma,6000,29006000,,,Migrant
+,,290,Poland,1946,2013,Poles,1000,29001000,,310465,Statewide
+,,290,Poland,1946,2013,Germans,2000,29002000,,3225,Regionally based
+,,290,Poland,1946,2013,Byelorussians,4000,29004000,,3010,Regionally based
+,,341,Montenegro,2006,2013,Serbs,2000,34102000,,6496,Regional & urban
+,,305,Austria,1955,2013,Austrians,1000,30501000,,83708,Statewide
+,,305,Austria,1955,2013,Slovenes,2000,30502000,,1481,Regional & urban
+,,310,Hungary,1946,2013,Roma,2000,31002000,,,Migrant
+,,341,Montenegro,2006,2013,Bosniak/Muslims,3000,34103000,,841,Regionally based
+,,310,Hungary,1946,2013,Hungarians,1000,31001000,,92741,Statewide
+,,315,Czechoslovakia,1946,1992,Roma,4000,31504000,,,Migrant
+,,325,Italy,1946,2013,Sardinians,2000,32502000,,23849,Regionally based
+,,341,Montenegro,2006,2013,Albanians,4000,34104000,,298,Regionally based
+,,315,Czechoslovakia,1946,1992,Czechs,1000,31501000,,78436,Regionally based
+,,325,Italy,1946,2013,Friulians,3000,32503000,,7835,Regionally based
+,,325,Italy,1946,2013,German speakers (Austrians),4000,32504000,,6486,Regionally based
+,,343,Macedonia,1991,2013,Roma,3000,34303000,,,Dispersed
+,,343,Macedonia,1991,2013,Serbs,4000,34304000,,,Dispersed
+,,315,Czechoslovakia,1946,1992,Slovaks,2000,31502000,,46496,Regionally based
+,,315,Czechoslovakia,1946,1992,Hungarians,3000,31503000,,2336,Regionally based
+,,317,Slovakia,1993,2013,Roma,3000,31703000,,,Migrant
+,,325,Italy,1946,2013,Aostans (French speakers),5000,32505000,,3227,Regionally based
+,,345,Serbia and Montenegro,1946,1991,Slovenes,7000,34507000,,20724,Regional & urban
+,,317,Slovakia,1993,2013,Slovaks,1000,31701000,,44290,Statewide
+,,317,Slovakia,1993,2013,Hungarians,2000,31702000,,9714,Regional & urban
+,,325,Italy,1946,2013,Roma,6000,32506000,,,Urban
+,,325,Italy,1946,2013,Italians,1000,32501000,,299573,Statewide
+,,339,Albania,1946,2013,Albanians,1000,33901000,,27624,Statewide
+,,339,Albania,1990,2013,Greeks,2000,33902000,,1825,Regionally based
+,,339,Albania,1990,2013,Macedonians,3000,33903000,,1012,Regionally based
+,,340,Serbia,2007,2013,Croats,2000,34002000,,,Dispersed
+,,340,Serbia,2007,2013,Montenegrins,9000,34009000,,,Dispersed
+,,340,Serbia,2007,2013,Roma,12000,34012000,,,Dispersed
+,,340,Serbia,2007,2008,Serbs,1000,34001000,,78616,Regional & urban
+,,340,Serbia,2007,2008,Albanians,6000,34006000,,10999,Regional & urban
+,,340,Serbia,2007,2013,Hungarians,11000,34011000,,5395,Regionally based
+,,340,Serbia,2007,2013,Bosniak/Muslims,4000,34004000,,2190,Regionally based
+,,340,Serbia,2009,2013,Albanians,6000,34006000,,1303,Regionally based
+,,341,Montenegro,2006,2013,Croats,5000,34105000,,,Dispersed
+,,341,Montenegro,2006,2013,Roma,6000,34106000,,,Dispersed
+,,340,Serbia,2009,2013,Serbs,1000,34001000,,77029,Statewide
+,,341,Montenegro,2006,2013,Montenegrins,1000,34101000,,7590,Regional & urban
+,,343,Macedonia,1991,2013,Macedonians,1000,34301000,,21613,Regional & urban
+,,343,Macedonia,1991,2013,Albanians,2000,34302000,,3716,Regional & urban
+,,343,Macedonia,1991,2013,Turks,5000,34305000,,1360,Regional & urban
+,,344,Croatia,1991,2013,Roma,5000,34405000,,,Dispersed
+,,344,Croatia,1991,1995,Croats,1000,34401000,,45710,Regional & urban
+,,344,Croatia,1991,1995,Serbs,2000,34402000,,13646,Regional & urban
+,,344,Croatia,1996,2013,Bosniaks,3000,34403000,,,Dispersed
+,,344,Croatia,1996,2013,Italians,4000,34404000,,,Dispersed
+,,344,Croatia,1996,2013,Croats,1000,34401000,,55764,Statewide
+,,344,Croatia,1996,2013,Serbs,2000,34402000,,5055,Regionally based
+,,625,Sudan,1956,2011,Latoka,6000,62506000,,15187,Regionally based
+,,344,Croatia,1996,2013,Hungarians,6000,34406000,,1293,Regionally based
+,,345,Serbia and Montenegro,1946,1992,Bosniaks/Muslims,4000,34504000,,39775,Regional & urban
+,,347,Kosovo,2008,2013,Serbs,2000,34702000,,1218,Regionally based
+,,345,Serbia and Montenegro,1946,1991,Serbs,1000,34501000,,131079,Regional & urban
+,,347,Kosovo,2008,2013,Gorani,4000,34704000,,441,Regionally based
+,,349,Slovenia,1991,2013,Serbs,2000,34902000,,,Urban
+,,349,Slovenia,1991,2013,Croats,3000,34903000,,,Dispersed
+,,349,Slovenia,1991,2013,Bosniaks,4000,34904000,,,Urban
+,,349,Slovenia,1991,2013,Hungarians,5000,34905000,,,Dispersed
+,,349,Slovenia,1991,2013,Italians,6000,34906000,,,Dispersed
+,,349,Slovenia,1991,2013,Albanians,7000,34907000,,,Urban
+,,349,Slovenia,1991,2013,Roma,8000,34908000,,,Dispersed
+,,345,Serbia and Montenegro,1946,1991,Croats,2000,34502000,,37126,Regional & urban
+,,345,Serbia and Montenegro,1946,1991,Macedonians,8000,34508000,,21498,Regional & urban
+,,365,Russia,1946,2013,Karelians,56000,36556000,,89503,Regionally based
+,,365,Russia,1946,1991,Azerbaijanis,9000,36509000,,78864,Regional & urban
+,,365,Russia,1946,1991,Tajiks,19000,36519000,,75765,Regional & urban
+,,345,Serbia and Montenegro,1946,2006,Montenegrins,9000,34509000,,13990,Regional & urban
+,,345,Serbia and Montenegro,1946,1991,Albanians,6000,34506000,,11282,Regional & urban
+,,345,Serbia and Montenegro,1946,2006,Hungarians,11000,34511000,,5395,Regional & urban
+,,345,Serbia and Montenegro,1992,1992,Serbs,1000,34501000,,110858,Regional & urban
+,,345,Serbia and Montenegro,1992,2006,Albanians,6000,34506000,,11282,Regional & urban
+,,345,Serbia and Montenegro,1992,1992,Croats,2000,34502000,,6738,Regional & urban
+,,345,Serbia and Montenegro,1993,2006,Croats,2000,34502000,,,Dispersed
+,,345,Serbia and Montenegro,1993,2006,Serbs,1000,34501000,,72838,Regional & urban
+,,345,Serbia and Montenegro,1993,2006,Bosniaks/Muslims,4000,34504000,,2190,Regionally based
+,,345,Serbia and Montenegro,2000,2006,Roma,12000,34512000,,,Dispersed
+,,346,Bosnia and Herzegovina,1992,2013,Roma,4000,34604000,,,Dispersed
+,,626,South Sudan,2011,2013,Murle,17000,62617000,,36719,Regionally based
+,,346,Bosnia and Herzegovina,1992,1995,Serbs,2000,34602000,,22701,Regional & urban
+,,500,Uganda,1972,1985,Karamojong,7000,50007000,,24103,Regionally based
+,,346,Bosnia and Herzegovina,1992,1995,Bosniaks/Muslims,1000,34601000,,21984,Regional & urban
+,,626,South Sudan,2011,2013,Toposa,18000,62618000,,25582,Regionally based
+,,346,Bosnia and Herzegovina,1992,1995,Croats,3000,34603000,,6738,Regional & urban
+,,346,Bosnia and Herzegovina,1996,2013,Serbs,2000,34602000,,28363,Regional & urban
+,,346,Bosnia and Herzegovina,1996,2013,Bosniaks/Muslims,1000,34601000,,14493,Regional & urban
+,,346,Bosnia and Herzegovina,1996,2013,Croats,3000,34603000,,8566,Regional & urban
+,,347,Kosovo,2008,2013,Roma,3000,34703000,,,Dispersed
+,,347,Kosovo,2008,2013,Turks,5000,34705000,,,Dispersed
+,,347,Kosovo,2008,2013,Bosniaks,6000,34706000,,,Dispersed
+,,347,Kosovo,2008,2013,Albanians,1000,34701000,,9774,Regional & urban
+,,349,Slovenia,1991,2013,Slovenes,1000,34901000,,20370,Statewide
+,,350,Greece,1946,2013,Roma,3000,35003000,,,Dispersed
+,,350,Greece,1946,2013,Greeks,1000,35001000,,126480,Regional & urban
+,,350,Greece,1946,2013,Macedonians,4000,35004000,,2650,Regionally based
+,,350,Greece,1946,2013,Muslims,2000,35002000,,1549,Regionally based
+,,352,Cyprus,1960,1974,Greeks,1000,35201000,,9137,Statewide
+,,626,South Sudan,2011,2013,Shilluk,13000,62613000,,11470,Regionally based
+,,626,South Sudan,2011,2013,Mundari,20000,62620000,,7870,Regionally based
+,,352,Cyprus,1960,1974,Turks,2000,35202000,,962,Regionally based
+,,352,Cyprus,1975,2013,Greeks,1000,35201000,,5543,Regionally based
+,,352,Cyprus,1975,2013,Turks,2000,35202000,,3044,Regionally based
+,,365,Russia,1946,2013,Khakass,57000,36557000,,26901,Regionally based
+,,365,Russia,1946,2013,Mordva,20000,36520000,,26183,Regionally based
+,,365,Russia,1946,1991,Karakalpaks,55000,36555000,,22176,Regionally based
+,,365,Russia,1946,2013,Mari,29000,36529000,,21171,Regionally based
+,,355,Bulgaria,1946,2013,Bulgarians,1000,35501000,,110835,Statewide
+,,355,Bulgaria,1958,2013,Roma,3000,35503000,,,Dispersed
+,,355,Bulgaria,1958,1989,Pomaks,4000,35504000,,,Dispersed
+,,365,Russia,1946,1991,Avars,23000,36523000,,16498,Regionally based
+,,365,Russia,1957,2013,Ingush,33000,36533000,,2526,Regionally based
+,,365,Russia,1992,2013,Ukrainians,2000,36502000,,,Dispersed
+,,355,Bulgaria,1958,2013,Turkish,2000,35502000,,6617,Regionally based
+,,355,Bulgaria,1999,2013,Macedonians,5000,35505000,,,Dispersed
+,,359,Moldova,1991,2013,Bulgarians,5000,35905000,,,Dispersed
+,,365,Russia,1992,2013,Byelorussians,4000,36504000,,,Dispersed
+,,365,Russia,1992,2013,Armenians,8000,36508000,,,Urban
+,,365,Russia,1992,2013,Azerbaijanis,9000,36509000,,,Dispersed
+,,365,Russia,1992,2013,Georgians,10000,36510000,,,Dispersed
+,,365,Russia,1992,2013,Kazakhs,12000,36512000,,,Dispersed
+,,365,Russia,1992,2013,Poles,18000,36518000,,,Dispersed
+,,365,Russia,1992,2013,Russians,1000,36501000,,nan,Regional & urban
+,,365,Russia,1992,2013,Chukchi,48000,36548000,,255773,Regionally based
+,,365,Russia,1992,2013,Tatars,3000,36503000,,102108,Regional & urban
+,,365,Russia,1992,2013,Avars,23000,36523000,,16048,Regionally based
+,,481,Gabon,1960,2000,Myene,5000,48105000,,21312,Regional & urban
+,,359,Moldova,1991,2013,Moldovans,1000,35901000,,28883,Regional & urban
+,,626,South Sudan,2011,2013,Didinga,21000,62621000,,7061,Regionally based
+,,359,Moldova,1991,2013,Russian speakers,3000,35903000,,4797,Regional & urban
+,,359,Moldova,1991,2013,Gagauz,4000,35904000,,982,Regionally based
+,,360,Romania,1946,2013,Roma,3000,36003000,,,Migrant
+,,360,Romania,1946,2013,Romanians,1000,36001000,,216257,Regional & urban
+,,360,Romania,1946,2013,Hungarians,2000,36002000,,63238,Regionally based
+,,365,Russia,1946,1991,Uighurs,66000,36566000,,6112,Regionally based
+,,626,South Sudan,2011,2013,Anyuak,19000,62619000,,3875,Regionally based
+,,630,Iran,1946,2013,Armenians,2000,63002000,,,Urban
+,,630,Iran,1946,2013,Assyrians,3000,63003000,,,Urban
+,,630,Iran,1946,2013,Jews,7000,63007000,,,Urban
+,,630,Iran,1946,2013,Zoroastrians,12000,63012000,,,Urban
+,,630,Iran,1946,2013,Persians,9000,63009000,,677135,Regional & urban
+,,360,Romania,1946,2013,Germans,4000,36004000,,21407,Regional & urban
+,,365,Russia,1946,2013,Jews,11000,36511000,,,Urban
+,,365,Russia,1946,1956,Chechens,16000,36516000,,,Dispersed
+,,365,Russia,1946,2013,Germans,17000,36517000,,,Dispersed
+,,365,Russia,1946,1956,Ingush,33000,36533000,,,Dispersed
+,,365,Russia,1946,1991,Koreans,38000,36538000,,,Dispersed
+,,365,Russia,1946,1956,Balkars,43000,36543000,,,Dispersed
+,,365,Russia,1946,1991,Crimean Tatars,49000,36549000,,,Dispersed
+,,365,Russia,1946,2013,Roma,52000,36552000,,,Dispersed
+,,365,Russia,1946,1956,Kalmyks,53000,36553000,,,Dispersed
+,,365,Russia,1946,1956,Karachai,54000,36554000,,,Dispersed
+,,365,Russia,1946,1991,Russians,1000,36501000,,nan,Regional & urban
+,,365,Russia,1946,1991,Kazakhs,12000,36512000,,nan,Regional & urban
+,,365,Russia,1946,2013,Yakuts,36000,36536000,,2288212,Regionally based
+,,365,Russia,1946,1991,Ukrainians,2000,36502000,,637853,Regional & urban
+,,365,Russia,1946,1991,Turkmens,25000,36525000,,473795,Regional & urban
+,,365,Russia,1946,2013,Komi,37000,36537000,,287735,Regionally based
+,,365,Russia,1946,1991,Kirghis,22000,36522000,,211978,Regional & urban
+,,365,Russia,1946,1991,Byelorussians,4000,36504000,,198880,Regional & urban
+,,365,Russia,1946,2013,Tuvinians,39000,36539000,,171328,Regionally based
+,,365,Russia,1946,1991,Uzbeks,5000,36505000,,165586,Regional & urban
+,,365,Russia,1946,2013,Buryats,32000,36532000,,155535,Regional & urban
+,,365,Russia,1946,1991,Tatars,3000,36503000,,102516,Regional & urban
+,,365,Russia,1946,2013,Altai,47000,36547000,,71684,Regionally based
+,,365,Russia,1946,2013,Bashkirs,7000,36507000,,63991,Regional & urban
+,,365,Russia,1946,1991,Latvians,21000,36521000,,62400,Regional & urban
+,,630,Iran,1946,2013,Arabs,1000,63001000,,187255,Regional & urban
+,,630,Iran,1946,2013,Kurds,8000,63008000,,107555,Regional & urban
+,,630,Iran,1946,2013,Azeri,4000,63004000,,102446,Regional & urban
+,,365,Russia,1946,1991,Lithuanians,13000,36513000,,60310,Regional & urban
+,,365,Russia,1946,1991,Georgians,10000,36510000,,52752,Regional & urban
+,,365,Russia,1946,1991,Estonians,24000,36524000,,46869,Regional & urban
+,,365,Russia,1946,1991,Finns,50000,36550000,,38605,Regional & urban
+,,365,Russia,1946,2013,Chuvashes,6000,36506000,,35779,Regionally based
+,,365,Russia,1946,1991,Armenians,8000,36508000,,34171,Regional & urban
+,,365,Russia,1946,1991,Moldovans,14000,36514000,,31546,Regional & urban
+,,365,Russia,1946,2013,Udmurt,30000,36530000,,29032,Regionally based
+,,369,Ukraine,1991,2013,Hungarians,7000,36907000,,1639,Regionally based
+,,710,China,1946,2013,Xibe,32000,71032000,,1883,Regionally based
+,,365,Russia,1946,1991,Poles,18000,36518000,,12710,Regional & urban
+,,365,Russia,1946,1991,Komi-Permyaks,58000,36558000,,11936,Regionally based
+,,365,Russia,1946,1991,Ossetes,27000,36527000,,11583,Regionally based
+,,710,China,1946,2013,Salar,5500,71005500,71005000,1479,Regionally based
+,,365,Russia,1946,2013,Dargins,26000,36526000,,7201,Regionally based
+,,365,Russia,1946,2013,Kumyks,34000,36534000,,6544,Regionally based
+,,365,Russia,1946,1991,Abkhaz,46000,36546000,,5495,Regionally based
+,,471,Cameroon,1960,2013,Bassa/Duala,2000,47102000,,17795,Regionally based
+,,365,Russia,1946,1991,Lezgins,35000,36535000,,5130,Regionally based
+,,365,Russia,1946,2013,Laks,59000,36559000,,3225,Regionally based
+,,365,Russia,1946,2013,Kabardins,28000,36528000,,3979,Regionally based
+,,365,Russia,1946,2013,Circassians,44000,36544000,,969,Regionally based
+,,471,Cameroon,1960,2013,Bamileke,1000,47101000,,14485,Regionally based
+,,365,Russia,1946,2013,Adyghe,40000,36540000,,2275,Regionally based
+,,365,Russia,1946,2013,Tabasarans,65000,36565000,,855,Regionally based
+,,365,Russia,1957,2013,Kalmyks,53000,36553000,,56510,Regionally based
+,,471,Cameroon,1962,2013,Southwestern Anglophones (Bakweri etc.),6000,47106000,,22486,Regionally based
+,,365,Russia,1946,2013,Nogai,61000,36561000,,2227,Regionally based
+,,365,Russia,1946,1991,Gagauz,51000,36551000,,1048,Regionally based
+,,365,Russia,1946,1991,Pamir Tajiks,63000,36563000,,975,Regionally based
+,,471,Cameroon,1962,2013,Northwestern Anglophones (Grassfielders),5000,47105000,,18769,Regionally based
+,,475,Nigeria,1960,2013,Hausa-Fulani and Muslim Middle Belt,1000,47501000,,404003,Regional & urban
+,,365,Russia,1957,2013,Chechens,16000,36516000,,10994,Regional & urban
+,,500,Uganda,1974,1979,"Far North-West Nilers (Madi, Lugbara, Alur)",9111,50009111,50009110,15742,Regionally based
+,,365,Russia,1957,2013,Karachai,54000,36554000,,9522,Regionally based
+,,365,Russia,1957,2013,Balkars,43000,36543000,,5242,Regionally based
+,,365,Russia,1992,2013,Ossetes,27000,36527000,,6428,Regionally based
+,,365,Russia,1992,2013,Lezgins,35000,36535000,,3660,Regionally based
+,,366,Estonia,1991,2013,Russians,2000,36602000,,,Urban
+,,366,Estonia,1991,2013,Ukrainians,3000,36603000,,,Urban
+,,366,Estonia,1991,2013,Byelorussians,4000,36604000,,,Urban
+,,366,Estonia,1991,2013,Estonians,1000,36601000,,43937,Regional & urban
+,,367,Latvia,1991,2013,Russians,2000,36702000,,,Urban
+,,367,Latvia,1991,2013,Ukrainians,4000,36704000,,,Urban
+,,367,Latvia,1991,2013,Latvians,1000,36701000,,61124,Regional & urban
+,,367,Latvia,1991,2013,Byelorussians,3000,36703000,,821,Regionally based
+,,368,Lithuania,1991,2013,Russians,3000,36803000,,,Urban
+,,368,Lithuania,1991,2013,Lithuanians,1000,36801000,,59289,Regional & urban
+,,483,Chad,1973,2013,Toubou,6000,48306000,,520453,Regionally based
+,,368,Lithuania,1991,2013,Poles,2000,36802000,,7766,Regional & urban
+,,369,Ukraine,1991,2013,Ukrainians,1000,36901000,,562459,Regional & urban
+,,369,Ukraine,1991,2013,Russians,2000,36902000,,132647,Regional & urban
+,,370,Belarus,1991,2013,Poles,3000,37003000,,28127,Regional & urban
+,,371,Armenia,1991,2013,Russians,3000,37103000,,,Urban
+,,371,Armenia,1991,2013,Armenians,1000,37101000,,23402,Regional & urban
+,,369,Ukraine,1991,2013,Crimean Tatars,5000,36905000,,25560,Regionally based
+,,369,Ukraine,1991,2013,Romanians/Moldovans,3000,36903000,,9005,Regionally based
+,,500,Uganda,1974,1979,Kakwa-Nubian,9112,50009112,50009110,2293,Regionally based
+,,370,Belarus,1991,2013,Byelorussians,1000,37001000,,206853,Statewide
+,,370,Belarus,1991,2013,Russians,2000,37002000,,206853,Regional & urban
+,,371,Armenia,1991,2013,Kurds,2000,37102000,,468,Regional & urban
+,,372,Georgia,1991,2008,Georgians,1000,37201000,,51345,Regional & urban
+,,373,Azerbaijan,1991,2013,Armenians,4000,37304000,,4057,Regionally based
+,,373,Azerbaijan,1991,2013,Lezgins,2000,37302000,,3820,Regional & urban
+,,375,Finland,1946,2013,Finns,1000,37501000,,320144,Regional & urban
+,,372,Georgia,1991,2013,Abkhazians,7000,37207000,,5507,Regionally based
+,,372,Georgia,1991,2013,Ossetians (South),6000,37206000,,5154,Regionally based
+,,372,Georgia,1991,2013,Armenians,2000,37202000,,3742,Regional & urban
+,,432,Mali,1960,2013,"Blacks (Mande, Peul, Voltaic etc.)",1000,43201000,,470278,Regional & urban
+,,372,Georgia,1991,2013,Azeri,5000,37205000,,3133,Regional & urban
+,,372,Georgia,2009,2013,Georgians,1000,37201000,,50936,Regional & urban
+,,373,Azerbaijan,1991,2013,Azeri,1000,37301000,,81867,Regional & urban
+,,375,Finland,1946,2013,Swedes,2000,37502000,,7882,Regional & urban
+,,404,Guinea-Bissau,1974,2013,Cape Verdean,6000,40406000,,,Urban
+,,433,Senegal,1960,2013,Diola,5000,43305000,,7096,Regionally based
+,,500,Uganda,1990,2013,Banyarwanda,11030,50011030,50011000,5816,Regionally based
+,,404,Guinea-Bissau,1974,2013,Balanta,1000,40401000,,11763,Regional & urban
+,,404,Guinea-Bissau,1974,2013,Manjaco,3000,40403000,,4718,Regionally based
+,,404,Guinea-Bissau,1974,2013,Papel,5000,40405000,,868,Regional & urban
+,,420,The Gambia,1965,2009,Aku (Creoles),6000,42006000,,,Urban
+,,434,Benin,1960,2013,Southeastern (Yoruba/Nagot and Goun),2000,43402000,,5458,Regional & urban
+,,420,The Gambia,1965,2009,Mandinka,1000,42001000,,5032,Regionally based
+,,420,The Gambia,1965,2009,Wolof,3000,42003000,,1659,Regionally based
+,,420,The Gambia,1965,2009,Fula,2000,42002000,,1393,Regionally based
+,,420,The Gambia,1965,2009,Diola,4000,42004000,,719,Regionally based
+,,432,Mali,1960,2013,Arabs/Moors,3000,43203000,,300777,Regionally based
+,,434,Benin,1960,2013,Southwestern (Adja),4000,43404000,,3874,Regional & urban
+,,481,Gabon,1968,2013,"Mbede (Nzebi, Bateke, Obamba)",4000,48104000,,41979,Regionally based
+,,432,Mali,1960,2013,Tuareg,2000,43202000,,260972,Regionally based
+,,435,Mauritania,1977,1979,Sahrawis,4000,43504000,,98057,Regionally based
+,,481,Gabon,2001,2005,Orungu,5020,48105020,48105000,6453,Regionally based
+,,433,Senegal,1960,2013,"Pulaar (Peul, Toucouleur)",2000,43302000,,97174,Regionally based
+,,436,Niger,1960,2013,Tuareg,6000,43606000,,589420,Regionally based
+,,433,Senegal,1960,2013,Mandingue (and other eastern groups),4000,43304000,,62118,Regionally based
+,,450,Liberia,1981,2013,Mano,3080,45003080,45003000,5334,Regionally based
+,,433,Senegal,1960,2013,Wolof,1000,43301000,,36203,Regional & urban
+,,433,Senegal,1960,2013,Serer,3000,43303000,,10478,Regional & urban
+,,434,Benin,1960,2013,"Northern (Bariba, Peul, Ottamari, Yoa-Lokpa, Dendi, Gourmanchéma)",3000,43403000,,68215,Regional & urban
+,,434,Benin,1960,2013,South/Central (Fon),1000,43401000,,16354,Regional & urban
+,,450,Liberia,1981,2013,Gio,3020,45003020,45003000,5093,Regionally based
+,,451,Sierra Leone,1961,2013,Creole,1000,45101000,,,Urban
+,,435,Mauritania,1960,1975,White Moors (Beydan),1000,43501000,,878553,Regionally based
+,,451,Sierra Leone,2008,2013,Limba,5030,45105030,45105000,5328,Regional & urban
+,,435,Mauritania,1960,1975,Haratins (Black Moors),2000,43502000,,878553,Regionally based
+,,435,Mauritania,1960,1975,Black Africans,3000,43503000,,17333,Regionally based
+,,435,Mauritania,1976,1979,White Moors (Beydan),1000,43501000,,878553,Regionally based
+,,452,Ghana,1957,2013,Ewe,2000,45202000,,7210,Regional & urban
+,,435,Mauritania,1976,1979,Haratins (Black Moors),2000,43502000,,878553,Regionally based
+,,435,Mauritania,1976,1979,Black Africans,3000,43503000,,17333,Regionally based
+,,435,Mauritania,1980,2013,White Moors (Beydan),1000,43501000,,878553,Regionally based
+,,461,Togo,1960,2013,Ewe (and related groups),1000,46101000,,14185,Regionally based
+,,435,Mauritania,1980,2013,Haratins (Black Moors),2000,43502000,,878553,Regionally based
+,,435,Mauritania,1980,2013,Black Africans,3000,43503000,,17333,Regionally based
+,,436,Niger,1960,2013,Toubou,5000,43605000,,151689,Regionally based
+,,436,Niger,1960,2013,Kanouri,3000,43603000,,66299,Regionally based
+,,481,Gabon,2001,2005,Nkomi,5010,48105010,48105000,2751,Regional & urban
+,,501,Kenya,1963,2013,Mijikenda,7000,50107000,,16363,Regional & urban
+,,436,Niger,1960,2013,Djerma-Songhai,1000,43601000,,50969,Regional & urban
+,,436,Niger,1960,2013,Hausa,2000,43602000,,46082,Regional & urban
+,,501,Kenya,1963,2013,Luo,6000,50106000,,6228,Regional & urban
+,,437,Cote d'Ivoire,1960,2013,Northerners (Mande and Voltaic/Gur),3000,43703000,,144855,Regionally based
+,,437,Cote d'Ivoire,1960,2013,Kru,2000,43702000,,67713,Regionally based
+,,483,Chad,1983,2013,"Zaghawa, Bideyat",2200,48302200,48302000,78742,Regionally based
+,,437,Cote d'Ivoire,1960,2013,Other Akans,4000,43704000,,50399,Regionally based
+,,437,Cote d'Ivoire,1960,2013,Southern Mande,5000,43705000,,30775,Regional & urban
+,,437,Cote d'Ivoire,1960,2013,Baule (Akan),1000,43701000,,28947,Regionally based
+,,438,Guinea,1958,2013,Malinke,1000,43801000,,118239,Regional & urban
+,,484,Congo,1960,1968,Lari,5040,48405040,48405000,13114,Regionally based
+,,438,Guinea,1958,2013,Peul,2000,43802000,,64770,Regional & urban
+,,481,Gabon,2006,2013,Myene,5000,48105000,,21312,Regional & urban
+,,438,Guinea,1958,2013,Susu,3000,43803000,,38863,Regional & urban
+,,482,Central African Republic,1982,2013,Mbaka,6040,48206040,48206000,6649,Regionally based
+,,482,Central African Republic,1982,2013,Yakoma,6080,48206080,48206000,770,Regional & urban
+,,501,Kenya,1963,2013,Luhya,5000,50105000,,3322,Regional & urban
+,,501,Kenya,1963,2013,Kisii,4000,50104000,,2380,Regional & urban
+,,510,Tanzania,1964,2009,Mainland Africans,1000,51001000,,881114,Regional & urban
+,,450,Liberia,1946,1980,Indigenous Peoples,3000,45003000,,96419,Statewide
+,,450,Liberia,1946,2013,Americo-Liberians,1000,45001000,,1332,Regional & urban
+,,450,Liberia,1981,2013,Kru,3060,45003060,45003000,,Dispersed
+,,450,Liberia,1981,2013,Mandingo,3070,45003070,45003000,28296,Regional & urban
+,,450,Liberia,1981,2013,Krahn (Guere),3050,45003050,45003000,9220,Regional & urban
+,,451,Sierra Leone,1961,2013,Mende,4000,45104000,,28533,Regional & urban
+,,451,Sierra Leone,1961,1967,"Northern Groups (Temne, Limba)",5000,45105000,,22492,Regional & urban
+,,451,Sierra Leone,1961,2013,Kono,2000,45102000,,5778,Regionally based
+,,451,Sierra Leone,1968,1995,Temne,5060,45105060,45105000,17677,Regional & urban
+,,451,Sierra Leone,1968,1995,Limba,5030,45105030,45105000,5328,Regional & urban
+,,461,Togo,1960,2013,KabrÃ© (and related groups),2000,46102000,,12639,Regionally based
+,,451,Sierra Leone,1996,2007,"Northern Groups (Temne, Limba)",5000,45105000,,22492,Regional & urban
+,,451,Sierra Leone,2008,2013,Temne,5060,45105060,45105000,17677,Regional & urban
+,,484,Congo,1960,2013,Vili,10000,48410000,,4525,Regionally based
+,,484,Congo,1960,1968,Bakongo,5010,48405010,48405000,319,Regionally based
+,,452,Ghana,1957,2013,Other Akans,7000,45207000,,123616,Regional & urban
+,,484,Congo,1969,2013,Lari/Bakongo,5000,48405000,,13433,Regionally based
+,,452,Ghana,1957,2013,"Northern Groups (Mole-Dagbani, Gurma, Grusi)",6000,45206000,,65440,Regional & urban
+,,452,Ghana,1957,2013,Asante (Akan),1000,45201000,,25468,Regional & urban
+,,452,Ghana,1957,2013,Ga-Adangbe,3000,45203000,,11955,Regional & urban
+,,471,Cameroon,1960,2013,Fulani (and other northern Muslim peoples),4000,47104000,,164399,Regionally based
+,,471,Cameroon,1960,2013,Beti (and related peoples),3000,47103000,,50632,Regionally based
+,,475,Nigeria,1960,2013,Yoruba,6000,47506000,,115989,Regional & urban
+,,475,Nigeria,1960,2013,Igbo,2000,47502000,,39871,Regional & urban
+,,475,Nigeria,1960,2013,Tiv,5000,47505000,,38952,Regional & urban
+,,481,Gabon,1960,2013,Eshira/Bapounou,1000,48101000,,50919,Regionally based
+,,475,Nigeria,1960,2013,Ijaw,3000,47503000,,18711,Regional & urban
+,,475,Nigeria,1960,2013,Ogoni,4000,47504000,,469,Regionally based
+,,481,Gabon,1960,2013,Fang,3000,48103000,,72184,Regional & urban
+,,850,Indonesia,1949,1966,Minahasa,11000,85011000,,4248,Regionally based
+,,482,Central African Republic,1960,1993,"Northern groups (Baya, Banda, Mandjia, Sara, Goula)",5000,48205000,,313929,Regionally based
+,,482,Central African Republic,1960,1981,"Riverine groups (Mbaka, Yakoma, Banziri etc.)",6000,48206000,,8625,Regionally based
+,,482,Central African Republic,1994,2013,Baya,5020,48205020,48205000,65665,Regionally based
+,,482,Central African Republic,1994,2013,Sara,5070,48205070,48205000,23177,Regional & urban
+,,482,Central African Republic,2007,2008,Goula,5090,48205090,48205000,9608,Regionally based
+,,483,Chad,1960,1972,Toubou,6000,48306000,,636416,Regionally based
+,,483,Chad,1960,1982,Muslim Sahel groups,2000,48302000,,244879,Regionally based
+,,483,Chad,1960,2013,Arabs,1000,48301000,,150824,Regionally based
+,,483,Chad,1960,2013,Sara,4000,48304000,,77622,Regionally based
+,,571,Botswana,1966,2013,Kgalagadi,3000,57103000,,62519,Regionally based
+,,483,Chad,1983,2013,Hadjerai,2100,48302100,48302000,29584,Regionally based
+,,484,Congo,1960,1991,Batéké,2000,48402000,,47647,Regionally based
+,,484,Congo,1960,1976,Mbochi,6000,48406000,,24355,Regionally based
+,,484,Congo,1977,2013,Mbochi (proper),6070,48406070,48406000,19892,Regionally based
+,,484,Congo,1977,2013,Kouyou,6050,48406050,48406000,4462,Regionally based
+,,484,Congo,1992,2013,Bembe,3000,48403000,,2834,Regionally based
+,,484,Congo,1998,2013,Batéké,2000,48402000,,47647,Regionally based
+,,490,"Congo, DRC",1960,2013,Mongo,4000,49004000,,552740,Regionally based
+,,490,"Congo, DRC",1960,2013,Tetela-Kusu,12000,49012000,,552740,Regionally based
+,,571,Botswana,1966,2013,Birwa,8000,57108000,,4626,Regionally based
+,,580,Madagascar,1960,2009,Côtiers,1000,58001000,,425232,Regional & urban
+,,490,"Congo, DRC",1960,2013,Lunda-Yeke,11000,49011000,,492778,Regionally based
+,,490,"Congo, DRC",1960,1993,Luba Kasai,5000,49005000,,326251,Regionally based
+,,490,"Congo, DRC",1960,2013,Azande-Mangbetu cluster,1000,49001000,,247798,Regionally based
+,,490,"Congo, DRC",1960,2013,Tutsi-Banyamulenge,13000,49013000,,35297,Regionally based
+,,580,Madagascar,1960,2009,Highlanders,2000,58002000,,129870,Regional & urban
+,,590,Mauritius,1969,2013,Marathis,1200,59001200,59001000,,Dispersed
+,,590,Mauritius,1969,2013,Tamils and Telugus,1300,59001300,59001000,,Dispersed
+,,590,Mauritius,1969,2013,Muslims,2000,59002000,,,Dispersed
+,,490,"Congo, DRC",1960,2013,Bakongo,3000,49003000,,157006,Regionally based
+,,490,"Congo, DRC",1960,2013,Luba Shaba,7000,49007000,,111801,Regionally based
+,,490,"Congo, DRC",1960,2013,Other Kivu groups,10000,49010000,,65914,Regionally based
+,,490,"Congo, DRC",1960,2013,Lulua,9000,49009000,,51905,Regionally based
+,,590,Mauritius,1969,2013,Creoles,3000,59003000,,,Dispersed
+,,590,Mauritius,1969,2013,Black Creoles,3100,59003100,59003000,,Dispersed
+,,590,Mauritius,1969,2013,Gens-de-Couleur,3200,59003200,59003000,,Dispersed
+,,590,Mauritius,1969,2013,Franco-Mauritians,4000,59004000,,,Dispersed
+,,490,"Congo, DRC",1960,2013,Ngbandi,8000,49008000,,32510,Regionally based
+,,490,"Congo, DRC",1960,2013,Mbandja,2000,49002000,,26684,Regionally based
+,,490,"Congo, DRC",1960,2013,Ngbaka,6000,49006000,,19948,Regionally based
+,,490,"Congo, DRC",1994,2013,Luba Kasai,5000,49005000,,163773,Regionally based
+,,500,Uganda,1962,1965,"Northerners (Langi, Acholi, Teso, Madi, Kakwa-Nubian, Lugbara, Alur)",9000,50009000,,74937,Aggregate
+,,500,Uganda,1962,1989,"South-Westerners (Ankole, Banyoro, Toro, Banyarwanda)",11000,50011000,,48241,Aggregate
+,,500,Uganda,1962,2013,Baganda,2000,50002000,,39293,Regionally based
+,,500,Uganda,1962,2013,Basoga,4000,50004000,,10040,Regionally based
+,,500,Uganda,1966,1971,Asians,1000,50001000,,,Urban
+,,500,Uganda,1966,1971,"Northerners (Langi, Acholi, Madi, Kakwa-Nubian, Lugbara, Alur)",9100,50009100,50009000,58587,Aggregate
+,,590,Mauritius,1969,2013,Hindus,1000,59001000,,2151,Statewide
+,,500,Uganda,1966,2013,Teso,9210,50009210,50009200,16351,Regionally based
+,,500,Uganda,1970,2013,Langi/Acholi,9120,50009120,50009100,42220,Regionally based
+,,500,Uganda,1970,1985,"Far North-West Nile (Kakwa-Nubian, Madi, Lugbara, Alur)",9110,50009110,50009100,16367,Regionally based
+,,500,Uganda,1972,2013,Asians,1000,50001000,,,Dispersed
+,,590,Mauritius,1969,2013,Hindi-speaking Hindus,1100,59001100,59001000,2151,Statewide
+,,500,Uganda,1980,1985,"Northerners (Langi, Acholi, Teso)",9200,50009200,50009000,56917,Aggregate
+,,500,Uganda,1990,2013,"South-Westerners (Ankole, Banyoro, Toro)",11090,50011090,50011000,42411,Regionally based
+,,501,Kenya,1963,2013,Kalenjin-Masai-Turkana-Samburu,1000,50101000,,149311,Regional & urban
+,,501,Kenya,1963,2013,Somali,8000,50108000,,120251,Regional & urban
+,,501,Kenya,1963,2013,Kikuyu-Meru-Emb,3000,50103000,,38585,Regional & urban
+,,501,Kenya,1963,2013,Kamba,2000,50102000,,36010,Regional & urban
+,,510,Tanzania,1964,2013,Shirazi (Zanzibar Africans),2000,51002000,,3050,Regionally based
+,,510,Tanzania,1964,2013,Zanzibar Arabs,3000,51003000,,1603,Regional & urban
+,,510,Tanzania,1992,2013,Maasai,4000,51004000,,62202,Regionally based
+,,510,Tanzania,2010,2013,Others Mainland (Christians and traditional religions),1010,51001010,51001000,881114,Regional & urban
+,,510,Tanzania,2010,2013,Mainland Muslims,1020,51001020,51001000,879512,Regional & urban
+,,516,Burundi,1962,2013,Hutu,1000,51601000,,27307,Statewide
+,,516,Burundi,1962,2013,Tutsi,2000,51602000,,27307,Statewide
+,,517,Rwanda,1962,2013,Hutu,1000,51701000,,25249,Statewide
+,,517,Rwanda,1962,2013,Tutsi,2000,51702000,,25249,Statewide
+,,522,Djibouti,1977,2013,Afar,2000,52202000,,15947,Regional & urban
+,,522,Djibouti,1977,2013,Isaas (Somali),1000,52201000,,5572,Regional & urban
+,,530,Ethiopia,1946,2013,Afar,1000,53001000,,75213,Regionally based
+,,530,Ethiopia,1946,2013,Oroma,6000,53006000,,330485,Regionally based
+,,530,Ethiopia,1946,2013,Somali (Ogaden),8000,53008000,,283704,Regionally based
+,,530,Ethiopia,1946,2013,Tigry,9000,53009000,,44960,Regionally based
+,,530,Ethiopia,1946,2013,Amhara,2000,53002000,,178264,Regional & urban
+,,530,Ethiopia,1996,2013,Anuak,12000,53012000,,15831,Regionally based
+,,530,Ethiopia,1996,2013,Harari,5000,53005000,,378,Regional & urban
+,,530,Ethiopia,1952,1993,Muslim Eritreans,11000,53011000,,118708,Regionally based
+,,530,Ethiopia,1952,1993,Christian Eritreans,10000,53010000,,63733,Regionally based
+,,531,Eritrea,2009,2013,Saho,2300,53102300,53102000,10567,Regionally based
+,,530,Ethiopia,1996,2013,Other Southern Nations,7000,53007000,,129073,Regionally based
+,,530,Ethiopia,1996,2013,Beni-Shugal-Gumez,3000,53003000,,42614,Regionally based
+,,531,Eritrea,1993,1999,Other Muslims,2000,53102000,,81691,Regionally based
+,,531,Eritrea,1993,2013,Afar,3000,53103000,,21455,Regionally based
+,,531,Eritrea,1993,2013,Christians,1000,53101000,,17486,Regional & urban
+,,531,Eritrea,2000,2008,Other Muslims,2100,53102100,53102000,69726,Regionally based
+,,531,Eritrea,2000,2013,Kunama,2200,53102200,53102000,11964,Regionally based
+,,531,Eritrea,2009,2013,Other Muslims,2100,53102100,53102000,59160,Regionally based
+,,540,Angola,1975,2013,Ovimbundu-Ovambo,5000,54005000,,291550,Regionally based
+,,551,Zambia,1964,2013,Tonga-Ila-Lenje (Southerners),7000,55107000,,121530,Regionally based
+,,540,Angola,1975,2013,Lunda-Chokwe,3000,54003000,,268748,Regionally based
+,,540,Angola,1975,2013,Mbundu-Mestico,4000,54004000,,181428,Regionally based
+,,540,Angola,1975,2013,Bakongo,1000,54001000,,137440,Regionally based
+,,540,Angola,1975,2013,Cabindan Mayombe,2000,54002000,,4172,Regionally based
+,,541,Mozambique,1975,2013,Tsonga-Chopi,4000,54104000,,166568,Regionally based
+,,541,Mozambique,1975,2013,Shona-Ndau,3000,54103000,,91764,Regionally based
+,,541,Mozambique,1975,2013,Makonde-Yao,1000,54101000,,10645,Regionally based
+,,551,Zambia,1964,2013,Kaonde (NW Province),2000,55102000,,51415,Regionally based
+,,551,Zambia,1964,2013,Luvale (NW Province),5000,55105000,,37971,Regionally based
+,,551,Zambia,1964,2013,Bemba speakers,1000,55101000,,325349,Regional & urban
+,,552,Zimbabwe,1965,1979,Africans,1000,55201000,,391057,Aggregate
+,,560,South Africa,1994,2013,Pedi (North Sotho),5310,56005310,56005000,79563,Regionally based
+,,552,Zimbabwe,1980,2013,Shona,1200,55201200,55201000,202480,Aggregate
+,,552,Zimbabwe,1980,2013,Ndebele-Kalanga-(Tonga),1100,55201100,55201000,102002,Regionally based
+,,560,South Africa,1994,2013,San,5900,56005900,56005000,10322,Regionally based
+,,565,Namibia,1990,2013,Coloreds,3000,56503000,,,Dispersed
+,,552,Zimbabwe,1982,1987,Shona (minus Ndau),1220,55201220,55201200,202480,Aggregate
+,,552,Zimbabwe,1982,1991,Ndau (Shona sub-group),1210,55201210,55201200,13600,Regionally based
+,,552,Zimbabwe,1988,1991,Shona (minus Manyika & Ndau),1222,55201222,55201220,183387,Regionally based
+,,552,Zimbabwe,1988,1991,Manyika (Shona sub-group),1221,55201221,55201220,19090,Regionally based
+,,553,Malawi,1964,2013,"Northerners (Tumbuka, Tonga, Ngonde)",3000,55303000,,41008,Regionally based
+,,553,Malawi,1964,2013,"Southerners (Lomwe, Mang'anja, Nyanja, Yao)",1000,55301000,,39721,Regionally based
+,,620,Libya,1951,2013,Toubou,2000,62002000,,386773,Regionally based
+,,553,Malawi,1964,2013,Central (Chewa),2000,55302000,,38205,Regionally based
+,,560,South Africa,1946,2013,Asians,2000,56002000,,,Urban
+,,560,South Africa,1946,2013,Coloreds,3000,56003000,,,Dispersed
+,,560,South Africa,1946,1989,Blacks,5000,56005000,,2048718,Aggregate
+,,560,South Africa,1946,1989,Afrikaners,1000,56001000,,488080,Regional & urban
+,,560,South Africa,1946,1989,English Speakers,4000,56004000,,68129,Regional & urban
+,,560,South Africa,1990,1993,Blacks,5000,56005000,,1221850,Aggregate
+,,560,South Africa,1990,2013,Afrikaners,1000,56001000,,427158,Regional & urban
+,,560,South Africa,1990,2013,English Speakers,4000,56004000,,8341,Regional & urban
+,,560,South Africa,1994,2013,South Sotho,5320,56005320,56005000,nan,Regionally based
+,,560,South Africa,1994,2013,Swazi,5600,56005600,56005000,455609,Regionally based
+,,560,South Africa,1994,2013,Tswana,5400,56005400,56005000,243403,Regionally based
+,,560,South Africa,1994,2013,Xhosa,5200,56005200,56005000,167523,Regionally based
+,,560,South Africa,1994,2013,Zulu,5100,56005100,56005000,128231,Regionally based
+,,560,South Africa,1994,2013,Tsonga,5500,56005500,56005000,34926,Regionally based
+,,560,South Africa,1994,2013,Ndebele,5800,56005800,56005000,28389,Regionally based
+,,560,South Africa,1994,2013,Venda,5700,56005700,56005000,21090,Regionally based
+,,565,Namibia,1990,2013,Damara,4000,56504000,,283287,Regionally based
+,,565,Namibia,1990,2013,Nama,8000,56508000,,283287,Regionally based
+,,565,Namibia,1990,2013,"Herero, Mbanderu",5000,56505000,,207616,Regionally based
+,,565,Namibia,1990,2013,Mafwe,7000,56507000,,35709,Regionally based
+,,565,Namibia,1990,2013,San,10000,56510000,,165749,Regionally based
+,,565,Namibia,1990,2013,Ovambo,9000,56509000,,78706,Regionally based
+,,565,Namibia,1990,2013,Basubia,2000,56502000,,20402,Regionally based
+,,565,Namibia,1990,2013,Whites,11000,56511000,,59788,Regional & urban
+,,565,Namibia,1990,2013,Himba,12000,56512000,,49195,Regionally based
+,,565,Namibia,1990,2013,Baster,1000,56501000,,14562,Regionally based
+,,571,Botswana,1966,2013,Tswana,1000,57101000,,327383,Regionally based
+,,571,Botswana,1966,2013,Yeyi,6000,57106000,,26447,Regionally based
+,,571,Botswana,1966,2013,Kalanga,2000,57102000,,19725,Regionally based
+,,571,Botswana,1966,2013,Tswapong,9000,57109000,,11916,Regionally based
+,,571,Botswana,1966,2013,Mbukushu,7000,57107000,,11899,Regionally based
+,,600,Morocco,1956,1957,Arabs,2000,60002000,,263010,Regional & urban
+,,600,Morocco,1956,1957,Berbers,1000,60001000,,248584,Regionally based
+,,652,Syria,1946,2013,Kurds,6000,65206000,,22009,Regionally based
+,,600,Morocco,1958,1976,Arabs,2000,60002000,,263010,Regional & urban
+,,600,Morocco,1958,1976,Berbers,1000,60001000,,253296,Regionally based
+,,600,Morocco,1977,1979,Arabs,2000,60002000,,434611,Regional & urban
+,,652,Syria,1946,2013,Christians,4000,65204000,,8230,Regional & urban
+,,600,Morocco,1977,1979,Berbers,1000,60001000,,253296,Regionally based
+,,600,Morocco,1977,1979,Sahrawis,3000,60003000,,171601,Regionally based
+,,600,Morocco,1980,1990,Arabs,2000,60002000,,262906,Regional & urban
+,,600,Morocco,1980,2013,Berbers,1000,60001000,,253296,Regionally based
+,,652,Syria,1946,2013,Alawi,3000,65203000,,7649,Regionally based
+,,600,Morocco,1980,2013,Sahrawis,3000,60003000,,146086,Regionally based
+,,600,Morocco,1991,2013,Arabs,2000,60002000,,440837,Regional & urban
+,,615,Algeria,1962,2013,Arabs,1000,61501000,,1336084,Regional & urban
+,,615,Algeria,1962,2013,Berbers,2000,61502000,,663013,Regionally based
+,,620,Libya,1951,1969,Jews,4000,62004000,,,Urban
+,,620,Libya,1951,2013,Tuareg,6000,62006000,,47151,Regionally based
+,,620,Libya,1951,2013,Arabs,1000,62001000,,655463,Regional & urban
+,,625,Sudan,1956,2013,Beja,3000,62503000,,254111,Regionally based
+,,625,Sudan,1956,2013,Other Arab groups,9000,62509000,,210363,Regionally based
+,,652,Syria,1946,2013,Druze,1000,65201000,,1640,Regional & urban
+,,660,Lebanon,1946,2013,Armenian Orthodox,1000,66001000,,,Urban
+,,660,Lebanon,1946,2013,Armenian Catholics,6000,66006000,,,Urban
+,,660,Lebanon,1946,2013,Protestants,9000,66009000,,,Urban
+,,625,Sudan,1956,2011,Dinka,4000,62504000,,165444,Regionally based
+,,625,Sudan,1956,2011,Other Southern groups,11000,62511000,,157847,Regionally based
+,,625,Sudan,1956,2013,"Shaygiyya, Ja'aliyyin and Danagla (Arab)",12000,62512000,,111945,Regionally based
+,,625,Sudan,1956,2013,Fur,5000,62505000,,93890,Regionally based
+,,625,Sudan,1956,2011,Nuer,8000,62508000,,80800,Regionally based
+,,625,Sudan,1956,2011,Azande,1000,62501000,,45947,Regionally based
+,,625,Sudan,1956,2011,Bari,2000,62502000,,45566,Regionally based
+,,625,Sudan,1956,2013,Other Northern groups,10000,62510000,,14609,Regionally based
+,,625,Sudan,1956,2011,Shilluk,13000,62513000,,11470,Regionally based
+,,625,Sudan,1956,2003,Zaghawa,15000,62515000,,10334,Regionally based
+,,625,Sudan,1956,2003,Masalit,14000,62514000,,4791,Regionally based
+,,625,Sudan,2004,2013,Masalit,14000,62514000,,,Dispersed
+,,625,Sudan,2004,2013,Zaghawa,15000,62515000,,,Dispersed
+,,625,Sudan,2006,2013,Rashaida,16000,62516000,,8464,Regionally based
+,,660,Lebanon,1991,2013,Shi'a Muslims (Arab),8000,66008000,,4273,Regional & urban
+,,626,South Sudan,2011,2013,Dinka,4000,62604000,,145290,Regionally based
+,,660,Lebanon,1946,1990,Shi'a Muslims (Arab),8000,66008000,,4454,Regional & urban
+,,626,South Sudan,2011,2013,Nuer,8000,62608000,,80800,Regionally based
+,,626,South Sudan,2011,2013,Azande,1000,62601000,,45947,Regionally based
+,,626,South Sudan,2011,2013,Bari,2000,62602000,,45566,Regionally based
+,,630,Iran,1946,2013,Turkmen,10000,63010000,,18989,Regionally based
+,,630,Iran,1961,2013,Baloch,6000,63006000,,211045,Regional & urban
+,,630,Iran,1980,2013,Bahais,5000,63005000,,,Urban
+,,640,Turkey,1946,2013,Roma,3000,64003000,,,Migrant
+,,640,Turkey,1946,2013,Turkish,2000,64002000,,608937,Statewide
+,,640,Turkey,1946,2013,Kurds,1000,64001000,,162421,Regional & urban
+,,645,Iraq,1946,2013,Shi'a Arabs,2000,64502000,,108233,Regional & urban
+,,645,Iraq,1946,2013,Sunni Arabs,3000,64503000,,96795,Regional & urban
+,,660,Lebanon,1946,1990,Sunnis (Arab),10000,66010000,,2411,Regional & urban
+,,645,Iraq,1946,2013,Kurds,1000,64501000,,72411,Regional & urban
+,,651,Egypt,1946,2000,Jews,3000,65103000,,,Urban
+,,660,Lebanon,1946,1990,Maronite Christians,5000,66005000,,2173,Regional & urban
+,,660,Lebanon,1946,2013,Alawites,11000,66011000,,756,Regional & urban
+,,660,Lebanon,1946,1990,Greek Orthodox,3000,66003000,,685,Regional & urban
+,,651,Egypt,1946,2013,Arab Muslims,1000,65101000,,75676,Regional & urban
+,,651,Egypt,1946,2013,Coptic Christians,2000,65102000,,2181,Regional & urban
+,,660,Lebanon,1946,1990,Druze,2000,66002000,,627,Regional & urban
+,,660,Lebanon,1946,2013,Palestinians (Arab),7000,66007000,,312,Regional & urban
+,,652,Syria,1946,2013,Sunni Arabs,2000,65202000,,134842,Regional & urban
+,,660,Lebanon,1946,1990,Greek Catholics,4000,66004000,,173,Regional & urban
+,,660,Lebanon,1991,2013,Maronite Christians,5000,66005000,,3264,Regional & urban
+,,660,Lebanon,1991,2013,Greek Orthodox,3000,66003000,,1972,Regional & urban
+,,660,Lebanon,1991,2013,Greek Catholics,4000,66004000,,1972,Regional & urban
+,,710,China,1946,2013,Li,19000,71019000,,13949,Regionally based
+,,660,Lebanon,1991,2013,Sunnis (Arab),10000,66010000,,1745,Regional & urban
+,,660,Lebanon,1991,2013,Druze,2000,66002000,,1158,Regional & urban
+,,663,Jordan,1946,2013,Christians,3000,66303000,,,Urban
+,,663,Jordan,1946,2013,Jordanian Arabs,1000,66301000,,89297,Statewide
+,,663,Jordan,1946,2013,Palestinian Arabs,2000,66302000,,89297,Statewide
+,,666,Israel,1948,2013,Ashkenazim (Jewish),2000,66602000,,20737,Statewide
+,,666,Israel,1948,1949,Palestinians (Arab),1000,66601000,,4468,Regional & urban
+,,666,Israel,1950,1967,Israeli Arabs,1100,66601100,66601000,4468,Regional & urban
+,,666,Israel,1968,1978,Palestinian Arabs,1200,66601200,66601000,6244,Regional & urban
+,,666,Israel,1968,1978,Israeli Arabs,1100,66601100,66601000,5041,Regional & urban
+,,666,Israel,1977,2013,Mizrahim (Jewsih),4000,66604000,,88733,Statewide
+,,666,Israel,1979,2013,Palestinian Arabs,1200,66601200,66601000,6244,Regional & urban
+,,666,Israel,1979,2013,Israeli Arabs,1100,66601100,66601000,5041,Regional & urban
+,,666,Israel,1996,2013,Russians (Jewish),5000,66605000,,28097,Statewide
+,,670,Saudi Arabia,1946,2013,Sunni Wahhabi (Najdi) (Arab),5000,67005000,,324432,Regional & urban
+,,670,Saudi Arabia,1946,2013,Ismaili Shia (South) (Arab),1000,67001000,,49543,Regional & urban
+,,678,Yemen,1946,2013,Al-Akhdam,3000,67803000,,,Urban
+,,678,Yemen,1946,2013,Jewish,4000,67804000,,,Urban
+,,670,Saudi Arabia,1946,2013,Sunni Shafii/Sofi (Hijazi) (Arab),4000,67004000,,245743,Regional & urban
+,,670,Saudi Arabia,1946,2013,Ja'afari Shia (Eastern Province) (Arab),2000,67002000,,73951,Regional & urban
+,,678,Yemen,1946,1990,Zaydis,2100,67802100,67802000,62320,Regionally based
+,,678,Yemen,1946,1990,Sunni Shafi'I (Arab),2200,67802200,67802000,62320,Regional & urban
+,,678,Yemen,1991,1994,Southerners,1000,67801000,,171660,Regionally based
+,,678,Yemen,1991,1994,Northerners,2000,67802000,,62320,Regionally based
+,,678,Yemen,1995,2013,Southerners,1000,67801000,,171660,Regionally based
+,,678,Yemen,1995,2013,Zaydis,2100,67802100,67802000,62320,Regionally based
+,,678,Yemen,1995,2013,Sunni Shafi'I (Arab),2200,67802200,67802000,62320,Regional & urban
+,,690,Kuwait,1961,2013,Bedoon,4000,69004000,,,Dispersed
+,,690,Kuwait,1961,2013,Kuwaiti Shi'a (Arab),2000,69002000,,16758,Statewide
+,,710,China,1946,2013,Bai,1000,71001000,,20883,Regionally based
+,,690,Kuwait,1961,2013,Kuwaiti Sunni (Arab),3000,69003000,,16758,Statewide
+,,692,Bahrain,1971,2013,Sunni Arabs,1000,69201000,,641,Statewide
+,,692,Bahrain,1971,2013,Shi'a Arabs,2000,69202000,,641,Statewide
+,,700,Afghanistan,1946,2001,Qizalbash,13000,70013000,,,Urban
+,,700,Afghanistan,1946,2013,Pashtuns,12000,70012000,,275565,Regional & urban
+,,700,Afghanistan,1946,1978,Pamir Tajiks,10000,70010000,,17009,Regionally based
+,,700,Afghanistan,1979,2013,Tajiks,14000,70014000,,86858,Regional & urban
+,,710,China,1946,2013,Hani,16000,71016000,,20523,Regionally based
+,,710,China,1946,2013,Yao,11000,71011000,,17747,Regionally based
+,,700,Afghanistan,1946,2013,Hazara,7000,70007000,,103262,Regional & urban
+,,704,Uzbekistan,1991,2013,Karakalpak,1000,70401000,,11596,Regionally based
+,,704,Uzbekistan,1991,2013,Tajiks,4000,70404000,,7783,Regional & urban
+,,705,Kazakhstan,1991,2013,Germans,1000,70501000,,,Dispersed
+,,705,Kazakhstan,1991,1994,Ukrainians,3200,70503200,70503000,,Dispersed
+,,705,Kazakhstan,1991,2013,Tatars,4000,70504000,,,Dispersed
+,,705,Kazakhstan,1991,2013,Uighur,5000,70505000,,,Dispersed
+,,705,Kazakhstan,1991,2013,Uzbeks,7000,70507000,,,Dispersed
+,,705,Kazakhstan,1991,2013,Kazakhs,2000,70502000,,1187411,Regional & urban
+,,705,Kazakhstan,1991,1994,Russians,3100,70503100,70503000,659557,Regional & urban
+,,705,Kazakhstan,1995,2013,Russian-speakers,3000,70503000,,341686,Regional & urban
+,,710,China,1946,2013,Wa,28000,71028000,,,Dispersed
+,,710,China,1946,2013,Chinese (Han),3000,71003000,,9403646,Statewide
+,,700,Afghanistan,1979,2013,Uzbeks,16000,70016000,,50494,Regionally based
+,,710,China,1946,1963,Hui,5000,71005000,,9403646,Statewide
+,,710,China,1946,2013,Tibetans,10000,71010000,,1578095,Regionally based
+,,710,China,1946,2013,Mongolians,9000,71009000,,1024770,Regionally based
+,,710,China,1946,2013,Uyghur,36000,71036000,,591626,Regionally based
+,,710,China,1946,2013,Kazakh,35000,71035000,,256853,Regionally based
+,,710,China,1946,2013,Zhuang,13000,71013000,,139985,Regionally based
+,,710,China,1946,2013,Yi,12000,71012000,,105219,Regionally based
+,,710,China,1946,2013,Kirghiz,5400,71005400,71005000,73455,Regionally based
+,,710,China,1946,2013,Miao,8000,71008000,,40347,Regionally based
+,,710,China,1946,2013,Koreans,6000,71006000,,33371,Regionally based
+,,710,China,1946,2013,Bouyei,2000,71002000,,27185,Regionally based
+,,700,Afghanistan,1979,2013,Turkmen,15000,70015000,,10007,Regionally based
+,,700,Afghanistan,1979,2013,Nuristani,8000,70008000,,5764,Regionally based
+,,700,Afghanistan,1992,1995,Aimaq,6000,70006000,,49394,Regionally based
+,,700,Afghanistan,2002,2013,Baloch,4000,70004000,,56754,Regionally based
+,,700,Afghanistan,2002,2005,Brahui,5000,70005000,,17198,Regionally based
+,,700,Afghanistan,2002,2005,Pashai,11000,70011000,,5700,Regionally based
+,,701,Turkmenistan,1991,2013,Kazakhs,11000,70111000,,,Dispersed
+,,701,Turkmenistan,1991,2013,Russians,12000,70112000,,,Urban
+,,701,Turkmenistan,1991,2013,Uzbeks,14000,70114000,,,Dispersed
+,,701,Turkmenistan,1991,2013,Turkmen,13000,70113000,,463994,Regional & urban
+,,702,Tajikistan,1991,2013,Tatars,4000,70204000,,,Dispersed
+,,702,Tajikistan,1991,2013,Tajik,3000,70203000,,45103,Regional & urban
+,,702,Tajikistan,1991,2013,Uzbeks,5000,70205000,,14070,Regional & urban
+,,702,Tajikistan,1991,2013,Kyrgyz,1000,70201000,,4141,Regionally based
+,,702,Tajikistan,1991,1997,Russians,2000,70202000,,2075,Regional & urban
+,,702,Tajikistan,1998,2013,Russians,2000,70202000,,,Urban
+,,703,Kyrgyzstan,1991,2013,Uyghur,4000,70304000,,,Dispersed
+,,703,Kyrgyzstan,1991,2013,Kyrgyz,1000,70301000,,90287,Regional & urban
+,,703,Kyrgyzstan,1991,2013,Russians,2000,70302000,,7945,Regional & urban
+,,703,Kyrgyzstan,1991,2013,Uzbeks,5000,70305000,,3176,Regionally based
+,,704,Uzbekistan,1991,2013,Russians,3000,70403000,,,Urban
+,,704,Uzbekistan,1991,2013,Uzbeks,6000,70406000,,116056,Regional & urban
+,,710,China,1946,2013,Dong,4000,71004000,,13020,Regionally based
+,,710,China,1946,2013,Dai,14000,71014000,,10754,Regionally based
+,,710,China,1946,2013,Daur,15000,71015000,,11807,Regionally based
+,,710,China,1946,2013,Tu,26000,71026000,,3634,Regionally based
+,,710,China,1946,2013,Naxi,22000,71022000,,11676,Regionally based
+,,710,China,1946,2013,Jingpo,17000,71017000,,10979,Regionally based
+,,710,China,1946,2013,Tujia,27000,71027000,,10591,Regionally based
+,,710,China,1946,2013,Lisu,20000,71020000,,9821,Regionally based
+,,710,China,1946,2013,She,24000,71024000,,8089,Regionally based
+,,710,China,1946,2013,Qiang,23000,71023000,,6864,Regionally based
+,,710,China,1946,2013,Gelao,30000,71030000,,3132,Regionally based
+,,710,China,1946,2013,Dongxiang,5300,71005300,71005000,2592,Regionally based
+,,710,China,1946,2013,Manchu,7000,71007000,,5451,Regionally based
+,,710,China,1946,2013,Blang,33000,71033000,,2436,Regionally based
+,,710,China,1946,2013,Lahu,18000,71018000,,4391,Regionally based
+,,710,China,1946,2013,Shui,25000,71025000,,4082,Regionally based
+,,710,China,1946,2013,Mulam,21000,71021000,,933,Regionally based
+,,710,China,1946,2013,Maonan,34000,71034000,,297,Regionally based
+,,710,China,1964,2013,Hui (proper),5100,71005100,71005000,34952,Regionally based
+,,712,Mongolia,1946,2013,Mongols,3000,71203000,,1531710,Statewide
+,,712,Mongolia,1946,2013,Kazakh,2000,71202000,,15050,Regionally based
+,,713,Taiwan,1949,2013,Mainland Chinese,2000,71302000,,,Urban
+,,713,Taiwan,1949,2013,Indigenous/Aboriginal Taiwanese,1000,71301000,,18790,Regionally based
+,,750,India,1947,2013,Indigenous Tripuri,7000,75007000,,2948,Regionally based
+,,750,India,1949,2013,Scheduled Castes & Tribes,18000,75018000,,2432258,Regional & urban
+,,713,Taiwan,1949,2013,Taiwanese,3000,71303000,,17314,Regional & urban
+,,740,Japan,1952,2013,Burakumin,2000,74002000,,,Dispersed
+,,740,Japan,1952,2013,Koreans,6000,74006000,,,Urban
+,,740,Japan,1952,2013,Japanese,3000,74003000,,369454,Statewide
+,,740,Japan,1952,2013,Ainu,1000,74001000,,1579,Regionally based
+,,740,Japan,1952,2013,Burakumin,5000,74005000,,1263,Regionally based
+,,750,India,1947,2013,Other Muslims,13000,75013000,,2501233,Regional & urban
+,,750,India,1947,1948,Scheduled Castes & Tribes,18000,75018000,,2414356,Regional & urban
+,,750,India,1947,2013,Hindi (non-SC/ST),5000,75005000,,678676,Regional & urban
+,,750,India,1947,2013,Marathi (non-SC/ST),11000,75011000,,344775,Regional & urban
+,,750,India,1947,2013,Telugu (Non SC/ST/OBCs),20000,75020000,,297509,Regional & urban
+,,750,India,1947,2013,Gujarati (non-SC/ST/OBCs),4000,75004000,,186313,Regional & urban
+,,750,India,1947,2013,Oriya (non-SC/ST/OBCs),15000,75015000,,167933,Regional & urban
+,,750,India,1947,2013,Kannada (non-SC/ST),8000,75008000,,165104,Regional & urban
+,,750,India,1963,2013,Bodo,3000,75003000,,1579,Regionally based
+,,750,India,1977,2013,Other Backward Classes (Castes),16000,75016000,,,Dispersed
+,,760,Bhutan,1949,1987,Bhutanese,1000,76001000,,,Dispersed
+,,750,India,1947,2013,Tamil (non-SC/ST),19000,75019000,,145593,Regional & urban
+,,750,India,1947,2013,Bengali (non-SC/ST),2000,75002000,,142034,Regional & urban
+,,760,Bhutan,1949,2013,Lhotsampa (Hindu Nepalese),2000,76002000,,4134,Regional & urban
+,,750,India,1947,1948,Punjabi-Sikhs (non-SC/ST/OBCs),17000,75017000,,73367,Regional & urban
+,,750,India,1947,2013,Assamese (non-SC/ST/OBCs),1000,75001000,,60831,Regionally based
+,,750,India,1947,2013,Naga,14000,75014000,,18588,Regionally based
+,,750,India,1947,2013,Manipuri,10000,75010000,,7582,Regionally based
+,,750,India,1947,2013,Malyalam (non-SC/ST),9000,75009000,,48078,Regional & urban
+,,750,India,1947,2013,Mizo,12000,75012000,,18589,Regionally based
+,,750,India,1949,2013,Punjabi-Sikhs (non-SC/ST/OBCs),17000,75017000,,81196,Regional & urban
+,,750,India,1949,2013,Kashmiri Muslims,6000,75006000,,39976,Regional & urban
+,,760,Bhutan,1988,2013,Ngalops (Drupka),1010,76001010,76001000,15871,Regional & urban
+,,760,Bhutan,1988,2013,Sharchops,1020,76001020,76001000,13081,Regional & urban
+,,770,Pakistan,1947,2013,Mohajirs,3000,77003000,,,Urban
+,,770,Pakistan,1947,2013,Ahmadis,7000,77007000,,,Dispersed
+,,770,Pakistan,1947,2013,Hindus,8000,77008000,,,Dispersed
+,,770,Pakistan,1947,2013,Sindhi,6000,77006000,,150697,Regional & urban
+,,770,Pakistan,1947,2013,Baluchis,1000,77001000,,315242,Regionally based
+,,770,Pakistan,1947,1971,Bengali,2000,77002000,,138195,Statewide
+,,771,Bangladesh,1972,2013,Tribal-Buddhists,3000,77103000,,12740,Regionally based
+,,775,Myanmar,1948,2013,Indians,4000,77504000,,,Urban
+,,775,Myanmar,1948,2013,Bamar (Barman),1000,77501000,,282605,Regional & urban
+,,775,Myanmar,1948,2013,Shan,9000,77509000,,131114,Regionally based
+,,775,Myanmar,1948,2013,Kachins,5000,77505000,,66739,Regionally based
+,,775,Myanmar,1948,2013,Kayin (Karens),6000,77506000,,57210,Regionally based
+,,770,Pakistan,1947,2013,Punjabi,5000,77005000,,220189,Regional & urban
+,,770,Pakistan,1947,2013,Pashtuns,4000,77004000,,134222,Regional & urban
+,,770,Pakistan,1984,2013,Christians,9000,77009000,,,Dispersed
+,,775,Myanmar,1948,2013,Zomis (Chins),11000,77511000,,47635,Regionally based
+,,775,Myanmar,1948,2013,Muslim Arakanese,8000,77508000,,15666,Regionally based
+,,775,Myanmar,1948,2013,Buddhist Arakanese,2000,77502000,,32770,Regional & urban
+,,811,Cambodia,1953,2013,Cham and Malays,1000,81101000,,3907,Regional & urban
+,,775,Myanmar,1948,2013,Mons,7000,77507000,,14086,Regionally based
+,,775,Myanmar,1948,2013,Karenni (Red Karens),12000,77512000,,12751,Regionally based
+,,775,Myanmar,1948,2013,Wa,10000,77510000,,11197,Regionally based
+,,775,Myanmar,1948,2013,Chinese,3000,77503000,,2267,Regional & urban
+,,780,Sri Lanka,1948,2013,Sinhalese,3000,78003000,,53096,Regional & urban
+,,780,Sri Lanka,1948,2013,Sri Lankan Tamils,4000,78004000,,24103,Regionally based
+,,780,Sri Lanka,1948,1990,Moors (Muslims),2000,78002000,,15523,Regional & urban
+,,780,Sri Lanka,1948,2013,Indian Tamils,1000,78001000,,11397,Regional & urban
+,,780,Sri Lanka,1991,2013,Moors (Muslims),2000,78002000,,6696,Regional & urban
+,,790,Nepal,1946,2013,Dalits,4000,79004000,,,Dispersed
+,,790,Nepal,1946,2013,Others,7000,79007000,,,Dispersed
+,,790,Nepal,1946,2013,Adibasi Janajati,2000,79002000,,147380,Statewide
+,,790,Nepal,1946,2013,Caste Hill Hindu Elite,1000,79001000,,71901,Regional & urban
+,,790,Nepal,1946,2013,Madhesi,5000,79005000,,22826,Regionally based
+,,790,Nepal,1946,2013,Muslims,6000,79006000,,4139,Regionally based
+,,790,Nepal,1946,2013,Newars,3000,79003000,,880,Regional & urban
+,,800,Thailand,1946,2013,Chinese,4000,80004000,,,Dispersed
+,,800,Thailand,1946,2013,Thai,3000,80003000,,441668,Statewide
+,,800,Thailand,1946,2013,Malay Muslims,1000,80001000,,35990,Regionally based
+,,800,Thailand,1946,2013,Shan,2000,80002000,,2781,Regionally based
+,,800,Thailand,1999,2013,Hill Tribes,5000,80005000,,25493,Regionally based
+,,811,Cambodia,1953,2013,Chinese,2000,81102000,,,Urban
+,,811,Cambodia,1953,2013,Khmer Loeu (incl. Kui),5000,81105000,,,Dispersed
+,,811,Cambodia,1953,2013,Vietnamese,4000,81104000,,3548,Regional & urban
+,,812,Laos,1953,2013,Lao Thoeng (excl. Khmou),5000,81205000,,17471,Regionally based
+,,811,Cambodia,1953,2013,Khmer,3000,81103000,,147010,Regionally based
+,,811,Cambodia,1953,1978,Thai-Lao,7000,81107000,,5166,Regionally based
+,,812,Laos,1953,2013,Lao (incl. Phuan),3000,81203000,,41493,Regional & urban
+,,812,Laos,1953,2013,Lao Tai,9000,81209000,,36290,Regionally based
+,,812,Laos,1953,2013,Khmou,2000,81202000,,31384,Regionally based
+,,816,Vietnam,1954,2013,Hoa (Chinese),1000,81601000,,1756,Regional & urban
+,,816,Vietnam,1976,2013,Kinh (Vietnamese),2000,81602000,,124012,Regional & urban
+,,816,Vietnam,1976,2013,Thai,18000,81618000,,35366,Regionally based
+,,816,Vietnam,1976,2013,Hmong,11000,81611000,,20507,Regionally based
+,,816,Vietnam,1976,2013,Tay,17000,81617000,,18875,Regionally based
+,,812,Laos,1953,1975,Hmong,1000,81201000,,14186,Regionally based
+,,812,Laos,1953,2013,Lao Sung (excl. Hmong),4000,81204000,,7740,Regionally based
+,,812,Laos,1976,2013,Hmong,1000,81201000,,,Migrant
+,,816,Vietnam,1954,1975,Kinh (Vietnamese),2000,81602000,,53254,Regional & urban
+,,816,Vietnam,1976,2013,Dao,3000,81603000,,16167,Regionally based
+,,816,Vietnam,1976,2013,Khmer,13000,81613000,,15078,Regionally based
+,,816,Vietnam,1976,2013,Muong,15000,81615000,,15050,Regionally based
+,,816,Vietnam,1976,2013,Gia Rai,10000,81610000,,11521,Regionally based
+,,816,Vietnam,1976,2013,Nung,16000,81616000,,8591,Regionally based
+,,817,Republic of Vietnam,1954,1975,Hoa (Chinese),1000,81701000,,,Urban
+,,817,Republic of Vietnam,1954,1975,Kinh (Vietnamese),2000,81702000,,64663,Regional & urban
+,,820,Malaysia,1957,2013,Malays,5000,82005000,,103694,Regional & urban
+,,820,Malaysia,1957,2013,Chinese,1000,82001000,,48258,Regional & urban
+,,820,Malaysia,1957,2013,East Indians,3000,82003000,,9190,Regional & urban
+,,820,Malaysia,1964,2013,Dayaks,2000,82002000,,115223,Regionally based
+,,850,Indonesia,1949,2013,Dayak,16000,85016000,,51583,Regionally based
+,,850,Indonesia,1949,2013,Amboinese,2000,85002000,,3429,Regional & urban
+,,820,Malaysia,1964,2013,Kadazans,4000,82004000,,45987,Regionally based
+,,830,Singapore,1966,2013,Chinese,1000,83001000,,,Urban
+,,830,Singapore,1966,2013,Malays,2000,83002000,,,Urban
+,,830,Singapore,1966,2013,Indians,3000,83003000,,,Urban
+,,830,Singapore,1966,2013,Eurasians and Others,4000,83004000,,,Urban
+,,840,Philippines,1946,2013,Fil-Chinese,4000,84004000,,,Urban
+,,840,Philippines,1946,2013,Christian lowlanders,1000,84001000,,174589,Regional & urban
+,,840,Philippines,1946,2013,Moro,3000,84003000,,31277,Regional & urban
+,,840,Philippines,1986,2013,Indigenous,2000,84002000,,91818,Regionally based
+,,850,Indonesia,1949,2013,Javanese,8000,85008000,,105283,Regional & urban
+,,850,Indonesia,1949,1966,Minangkabaus,12000,85012000,,72962,Regional & urban
+,,850,Indonesia,1949,1966,Makassarese and Bugis,10000,85010000,,56504,Regional & urban
+,,850,Indonesia,1949,1966,Sundanese,14000,85014000,,41131,Regional & urban
+,,850,Indonesia,1949,1966,Ternate,15000,85015000,,2857,Regionally based
+,,850,Indonesia,1964,2013,Papuans,13000,85013000,,405945,Aggregate
+,,850,Indonesia,1949,1966,Bataks,4000,85004000,,39060,Regional & urban
+,,850,Indonesia,1949,2013,Chinese (Han),5000,85005000,,5284,Regional & urban
+,,850,Indonesia,1949,2013,Acehnese,1000,85001000,,31332,Regional & urban
+,,850,Indonesia,1949,1966,Gorontalos,7000,85007000,,20752,Regionally based
+,,850,Indonesia,1949,1966,Madura,9000,85009000,,20190,Regional & urban
+,,850,Indonesia,1949,1966,Balinese,3000,85003000,,6058,Regionally based
+,,850,Indonesia,1976,2001,East Timorese,6000,85006000,,17181,Regionally based
+,,850,Indonesia,1999,2013,Malay,17000,85017000,,330476,Regionally based
+,,850,Indonesia,1999,2013,Bataks,4000,85004000,,39060,Regional & urban
+,,850,Indonesia,1999,2013,Minangkabaus,12000,85012000,,72962,Regional & urban
+,,850,Indonesia,1999,2013,Sundanese,14000,85014000,,41131,Regional & urban
+,,850,Indonesia,1999,2013,Madura,9000,85009000,,20190,Regional & urban
+,,900,Australia,1946,2013,Aborigines,1000,90001000,,,Dispersed
+,,900,Australia,1946,2013,Asians,2000,90002000,,,Urban
+,,900,Australia,1946,2013,Whites,3000,90003000,,7523336,Regional & urban
+,,920,New Zealand,1946,2013,Maori,1000,92001000,,,Dispersed
+,,920,New Zealand,1946,2013,New Zealanders,2000,92002000,,264270,Statewide
+,,920,New Zealand,1990,2013,Pacific Islanders,3000,92003000,,,Urban
+,,920,New Zealand,1996,2013,Asians,4000,92004000,,,Urban
+,,950,Fiji,1970,2013,Fijians,1000,95001000,,18133,Statewide
+,,950,Fiji,1970,2013,Indians,2000,95002000,,18133,Statewide
