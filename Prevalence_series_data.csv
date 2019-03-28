@@ -1,0 +1,233 @@
+﻿Age,Country,Drug Group,Method,Notes,Prevalence,Region,Source,Sub-Region,Year
+12+,Algeria,Amphetamines,HHS,,0.03,Africa,ARQ,Northern Africa,2010
+15-64,Egypt,Amphetamines,"HHS, SS",,0.48,Africa,Govt; Academic Research,Northern Africa,2006
+15-64,South Africa,Amphetamines,HHS,,0.78,Africa,ARQ,Southern and South-Eastern Africa,2008
+15-64,Zambia,Amphetamines,,,0.1,Africa,UNODC Estimate,Southern and South-Eastern Africa,2003
+15-64,Nigeria,Amphetamines,HHS,,1.4,Africa,ARQ,West and Central Africa,2008
+15-64,Bahamas,Amphetamines,,,0.29,Americas,UNODC Estimate,Caribbean,2003
+15-64,Bahamas,Amphetamines,SS,,0.43,Americas,ARQ,Caribbean,2008
+12-65,Barbados,Amphetamines,HHS,,0.2,Americas,CICAD,Caribbean,2006
+15-64,Dominican Republic,Amphetamines,,,1.1,Americas,UNODC Estimate,Caribbean,2003
+15-64,Dominican Republic,Amphetamines,SS,,0.95,Americas,ARQ,Caribbean,2008
+15-64,Grenada,Amphetamines,,,0.7,Americas,ARQ,Caribbean,2005
+15-64,Jamaica,Amphetamines,SS,,1.14,Americas,Government source,Caribbean,2006
+15-64,Jamaica,Amphetamines,SS,,0.81,Americas,ARQ,Caribbean,2010
+15-64,Puerto Rico,Amphetamines,SS,,0.43,Americas,Government source,Caribbean,2005
+15-64,Trinidad and Tobago,Amphetamines,,,0.78,Americas,UNODC Estimate,Caribbean,2002
+15-64,Trinidad and Tobago,Amphetamines,SS,,0.7,Americas,UNODC Estimate,Caribbean,2006
+12-65,Belize,Amphetamines,HHS,,1.35,Americas,CICAD,Central America (excluding Mexico),2005
+15-64,Costa Rica,Amphetamines,HHS,,0,Americas,ARQ,Central America (excluding Mexico),2015
+12-65,El Salvador,Amphetamines,HHS,Includes prescription stimulants,0.38,Americas,Government Source,Central America (excluding Mexico),2014
+15-64,Guatemala,Amphetamines,,,0.91,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+15-64,Honduras,Amphetamines,,,0.84,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+15-64,Nicaragua,Amphetamines,,,0.76,Americas,UNODC Estimate,Central America (excluding Mexico),2003
+12-65,Panama,Amphetamines,HHS,,1.2,Americas,CICAD,Central America (excluding Mexico),2003
+16-65,Bermuda,Amphetamines,HHS,,0.1,Americas,Government source,Northern America (including Mexico),2009
+15-64,Canada,Amphetamines,HHS,,0.5,Americas,ARQ,Northern America (including Mexico),2010
+15-64,Canada,Amphetamines,HHS,Includes prescription stimulants,1.2,Americas,ARQ,Northern America (including Mexico),2011
+15-64,Canada,Amphetamines,HHS,Includes prescription stimulants,1.6,Americas,ARQ,Northern America (including Mexico),2012
+15-64,Canada,Amphetamines,HHS,Amphetamine/methamphetamine,0.2,Americas,ARQ,Northern America (including Mexico),2013
+15-64,Canada,Amphetamines,HHS,Amphetamine,0.25,Americas,ARQ,Northern America (including Mexico),2015
+12-65,Mexico,Amphetamines,HHS,,0.02,Americas,Government source,Northern America (including Mexico),2008
+12-65,Mexico,Amphetamines,HHS,,0.12,Americas,Government Source,Northern America (including Mexico),2011
+12-65,Mexico,Amphetamines,HHS,Amphetamine,0.2,Americas,ARQ,Northern America (including Mexico),2016
+15-64,United States of America,Amphetamines,HHS,,1.8,Americas,ARQ,Northern America (including Mexico),2010
+15-64,United States of America,Amphetamines,HHS,,1.55,Americas,ARQ,Northern America (including Mexico),2011
+15-64,United States of America,Amphetamines,HHS,Includes prescription stimulants,1.9,Americas,ARQ,Northern America (including Mexico),2012
+15-64,United States of America,Amphetamines,HHS,Includes prescription stimulants,1.9,Americas,ARQ,Northern America (including Mexico),2013
+15-64,United States of America,Amphetamines,,,1.7,Americas,Government,Northern America (including Mexico),2014
+15-64,United States of America,Amphetamines,HHS,Includes methamphetamine and prescription stimulants,2.9,Americas,UNODC Estimate,Northern America (including Mexico),2015
+15-64,United States of America,Amphetamines,HHS,Includes methamphetamine and prescription stimulants,2.95,Americas,UNODC Estimate,Northern America (including Mexico),2016
+12-65,Bolivia (Plurinational State of),Amphetamines,HHS,Includes prescription stimulants,0.5,Americas,ARQ,South America,2007
+15-64,Brazil,Amphetamines,HHS,,0.3,Americas,Government source,South America,2016
+15-64,Chile,Amphetamines,HHS,,0.4,Americas,ARQ,South America,2008
+15-64,Chile,Amphetamines,HHS,Amphetamines,0.08,Americas,ARQ,South America,2012
+15-64,Chile,Amphetamines,HHS,Amphetamines,0.06,Americas,ARQ,South America,2014
+15-64,Chile,Amphetamines,HHS,Amphetamine,0.18,Americas,ARQ,South America,2016
+12-65,Colombia,Amphetamines,HHS,Includes prescription stimulants,0.06,Americas,ARQ,South America,2008
+15-64,Ecuador,Amphetamines,SS,,0.21,Americas,UNODC Estimate,South America,2005
+15-64,Ecuador,Amphetamines,HHS,,0.2,Americas,ARQ,South America,2007
+15-64,Paraguay,Amphetamines,SS,,0.51,Americas,UNODC Estimate,South America,2005
+12-64,Peru,Amphetamines,HHS,,0.2,Americas,ARQ,South America,2006
+15-64,Suriname,Amphetamines,,,0.6,Americas,UNODC Estimate,South America,2002
+12-65,Suriname,Amphetamines,HHS,,0.5,Americas,CICAD,South America,2007
+15-64,Uruguay,Amphetamines,HHS,Includes prescription stimulants,0.3,Americas,ARQ,South America,2006
+15-65,Uruguay,Amphetamines,HHS,Methamphetamine,0.01,Americas,ARQ,South America,2011
+15-65,Uruguay,Amphetamines,HHS,Includes prescription stimulants,0.04,Americas,ARQ,South America,2014
+15-64,Venezuela (Bolivarian Republic of),Amphetamines,,,0.6,Americas,UNODC Estimate,South America,2002
+15-64,Venezuela (Bolivarian Republic of),Amphetamines,HHS,Includes prescription stimulants,0.47,Americas,Government source,South America,2011
+15-64,Armenia,Amphetamines,HHS,,0.04,Asia,UNODC Estimate,Central Asia and Transcaucasia,2005
+15-64,Georgia,Amphetamines,SS,,0.56,Asia,Government source/ NGO/Academic research,Central Asia and Transcaucasia,2009
+18-64,Georgia,Amphetamines,HHS,,0,Asia,ARQ,Central Asia and Transcaucasia,2015
+15-64,Brunei Darussalam,Amphetamines,,,0.25,Asia,UNODC Estimate,East and South-East Asia,2006
+15-64,Cambodia,Amphetamines,,,0.6,Asia,UNODC Estimate,East and South-East Asia,2004
+15-64,"China, Hong Kong SAR",Amphetamines,SS,,0.35,Asia,Government source,East and South-East Asia,2008
+12-64,"China, Taiwan Province of China",Amphetamines,,,0.6,Asia,AMCEWG,East and South-East Asia,2005
+10-59,Indonesia,Amphetamines,HHS,,0.16,Asia,ARQ,East and South-East Asia,2008
+10-60,Indonesia,Amphetamines,HHS,,0.18,Asia,ARQ,East and South-East Asia,2010
+10-60,Indonesia,Amphetamines,HHS,20 of 34 provinces. Methamphetamine.,0.09,Asia,ARQ,East and South-East Asia,2015
+15-64,Japan,Amphetamines,HHS,,0.2,Asia,UNODC Estimate,East and South-East Asia,2009
+15-64,Japan,Amphetamines,HHS,,0.3,Asia,UNODC Estimate,East and South-East Asia,2011
+15-64,Lao People's Democratic Republic,Amphetamines,SS,,1.39,Asia,Academic research,East and South-East Asia,2008
+15-64,Malaysia,Amphetamines,,,0.55,Asia,UNODC Estimate,East and South-East Asia,2005
+15-64,Myanmar,Amphetamines,,,0.22,Asia,UNODC Estimate,East and South-East Asia,2005
+15-64,Philippines,Amphetamines,HHS,,2.13,Asia,Government source,East and South-East Asia,2008
+10-69,Philippines,Amphetamines,HHS,Methamphetamine. Data refers to 2012/13. 17 of 18 regions.,0.74,Asia,ARQ,East and South-East Asia,2012
+10-69,Philippines,Amphetamines,HHS,Methamphetamine. Data for 2015/16.,1.1,Asia,ARQ,East and South-East Asia,2016
+15-64,Republic of Korea,Amphetamines,HHS,,0.12,Asia,ARQ,East and South-East Asia,2004
+12-65,Thailand,Amphetamines,HHS,,1.4,Asia,ARQ,East and South-East Asia,2007
+15-64,Viet Nam,Amphetamines,,,0.22,Asia,UNODC Estimate,East and South-East Asia,2003
+15-64,Afghanistan,Amphetamines,HHS,,0,Asia,UNODC/ Govt. Source,Near and Middle East/ South-West Asia,2009
+15-64,Iran (Islamic Republic of),Amphetamines,,Methamphetamine,0.695,Asia,Government source,Near and Middle East/ South-West Asia,2011
+18+,Iran (Islamic Republic of),Amphetamines,NSUM,Methamphetamine,0.77,Asia,Academic/UNODC Estimate,Near and Middle East/ South-West Asia,2013
+15-64,Iran (Islamic Republic of),Amphetamines,HHS,Methamphetamine,0.400145254,Asia,Government source/UNODC Estimate,Near and Middle East/ South-West Asia,2015
+18-40,Israel,Amphetamines,,,0.4,Asia,ARQ,Near and Middle East/ South-West Asia,2005
+18-40,Israel,Amphetamines,HHS,,1.01,Asia,ARQ,Near and Middle East/ South-West Asia,2009
+18-65,Israel,Amphetamines,HHS,Amphetamine,0.7,Asia,ARQ,Near and Middle East/ South-West Asia,2016
+15-64,Kuwait,Amphetamines,,,0.27,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2005
+15-64,Pakistan,Amphetamines,HHS/I,Includes prescription stimulants,0.08,Asia,Government/UNODC,Near and Middle East/ South-West Asia,2012
+15-64,Saudi Arabia,Amphetamines,,,0.4,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2006
+15-64,Maldives,Amphetamines,HHS,,0.1,Asia,Government source,Southern Asia,2012
+15-64,Belarus,Amphetamines,,,0.35,Europe,UNODC Estimate,Eastern Europe,2006
+15-64,Republic of Moldova,Amphetamines,HHS,,0.03,Europe,Government source,Eastern Europe,2008
+15-64,Russian Federation,Amphetamines,SS,Approximate adjustment,0.39,Europe,ESPAD/UNODC Estimate,Eastern Europe,2007
+15-64,Ukraine,Amphetamines,SS,,0.39,Europe,ESPAD,Eastern Europe,2007
+15-64,Ukraine,Amphetamines,SS,,0.72,Europe,ARQ,Eastern Europe,2011
+15-64,Ukraine,Amphetamines,SS,,0.3,Europe,ESPAD/UNODC Estimate,Eastern Europe,2015
+15-64,Albania,Amphetamines,,,0.02,Europe,ARQ,South-Eastern Europe (including Turkey),2004
+15 - 64,Albania,Amphetamines,HHS,Amphetamine,0.1,Europe,ARQ,South-Eastern Europe (including Turkey),2014
+15-64,Bosnia and Herzegovina,Amphetamines,SS,,1.04,Europe,ESPAD,South-Eastern Europe (including Turkey),2008
+15-64,Bosnia and Herzegovina,Amphetamines,SS,,0.5,Europe,ARQ,South-Eastern Europe (including Turkey),2011
+15-64,Bulgaria,Amphetamines,"HHS, c",,0.5,Europe,ARQ,South-Eastern Europe (including Turkey),2007
+15-64,Bulgaria,Amphetamines,HHS,,0.95,Europe,ARQ,South-Eastern Europe (including Turkey),2008
+15-64,Bulgaria,Amphetamines,HHS,,0.65,Europe,ARQ,South-Eastern Europe (including Turkey),2012
+15 - 64,Bulgaria,Amphetamines,HHS,Amphetamine and methamphetamine,0.8,Europe,UNODC Estimate,South-Eastern Europe (including Turkey),2016
+15-64,Croatia,Amphetamines,SS,,0.7,Europe,ESPAD,South-Eastern Europe (including Turkey),2007
+15-64,Croatia,Amphetamines,HHS,,0.8,Europe,EMCDDA,South-Eastern Europe (including Turkey),2012
+15-64,Croatia,Amphetamines,HHS,Amphetamine,1,Europe,ARQ,South-Eastern Europe (including Turkey),2015
+15-64,Montenegro,Amphetamines,SS,,0.45,Europe,ESPAD,South-Eastern Europe (including Turkey),2007
+15-64,Montenegro,Amphetamines,SS,,0.72,Europe,ESPAD,South-Eastern Europe (including Turkey),2011
+15-64,Montenegro,Amphetamines,SS,,0.66,Europe,ESPAD/UNODC Estimate,South-Eastern Europe (including Turkey),2015
+15-64,Romania,Amphetamines,,,0.1,Europe,UNODC Estimate,South-Eastern Europe (including Turkey),2004
+15-64,Romania,Amphetamines,HHS,,0.03,Europe,EMCDDA,South-Eastern Europe (including Turkey),2010
+15-64,Romania,Amphetamines,HHS,Amphetamine,0.1,Europe,ARQ,South-Eastern Europe (including Turkey),2013
+15 - 64,Romania,Amphetamines,HHS,Amphetamine,0.1,Europe,ARQ,South-Eastern Europe (including Turkey),2016
+15-64,Serbia,Amphetamines,HHS,,0.24,Europe,Government sources,South-Eastern Europe (including Turkey),2006
+18-64,Serbia,Amphetamines,HHS,,0.1,Europe,Government sources,South-Eastern Europe (including Turkey),2014
+15-64,The former Yugoslav Republic of Macedonia,Amphetamines,SS,,0.33,Europe,ESPAD/UNODC Estimate,South-Eastern Europe (including Turkey),2015
+15-64,Turkey,Amphetamines,,,0.2,Europe,UNODC Estimate,South-Eastern Europe (including Turkey),2003
+15-64,Austria,Amphetamines,HHS,,0.8,Europe,EMCDDA,Western and Central Europe,2004
+15-64,Austria,Amphetamines,HHS,,0.5,Europe,Government source,Western and Central Europe,2008
+15-64,Austria,Amphetamines,HHS,,0.4,Europe,Government source,Western and Central Europe,2015
+15-64,Belgium,Amphetamines,SS,,0.85,Europe,ESPAD,Western and Central Europe,2007
+15-64,Belgium,Amphetamines,HHS,,0.9,Europe,ARQ,Western and Central Europe,2008
+15-64,Belgium,Amphetamines,HHS,,0.2,Europe,EMCDDA,Western and Central Europe,2013
+15-64,Cyprus,Amphetamines,,,0.4,Europe,ARQ,Western and Central Europe,2006
+15-64,Cyprus,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2009
+15-64,Cyprus,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2012
+15 - 64,Cyprus,Amphetamines,HHS,Amphetamine,0.1,Europe,ARQ,Western and Central Europe,2016
+15-64,Czechia,Amphetamines,HHS,,1.7,Europe,Government source,Western and Central Europe,2008
+15-64,Czechia,Amphetamines,HHS,,0.9,Europe,Government source,Western and Central Europe,2010
+15-64,Czechia,Amphetamines,HHS,,0.5,Europe,ARQ,Western and Central Europe,2012
+15-64,Czechia,Amphetamines,HHS,,0.2,Europe,ARQ,Western and Central Europe,2013
+15-64,Czechia,Amphetamines,HHS,Methamphetamine,0.8,Europe,ARQ,Western and Central Europe,2014
+15 - 64,Czechia,Amphetamines,HHS,Methamphetamine,0.8,Europe,ARQ,Western and Central Europe,2015
+16-64,Denmark,Amphetamines,HHS,,1.2,Europe,ARQ,Western and Central Europe,2008
+16-64,Denmark,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2010
+16-64,Denmark,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2013
+15-64,Estonia,Amphetamines,HHS,,1.3,Europe,ARQ,Western and Central Europe,2003
+15-64,Estonia,Amphetamines,HHS,,1,Europe,ARQ,Western and Central Europe,2008
+15-64,Finland,Amphetamines,,,0.6,Europe,ARQ,Western and Central Europe,2006
+15-64,Finland,Amphetamines,HHS,,0.8,Europe,ARQ,Western and Central Europe,2010
+15-64,Finland,Amphetamines,HHS,Amphetamine,1.1,Europe,ARQ,Western and Central Europe,2014
+15-64,Luxembourg,Amphetamines,,,0.4,Europe,UNODC Estimate,Western and Central Europe,1999
+15-64,Greece,Amphetamines,,Amphetamine,0,Europe,EMCDDA,Western and Central Europe,2004
+15-64,France,Amphetamines,,,0.2,Europe,ARQ,Western and Central Europe,2005
+15-64,Latvia,Amphetamines,,,0.9,Europe,ARQ,Western and Central Europe,2007
+15-64,France,Amphetamines,,,0.2,Europe,ARQ,Western and Central Europe,2010
+15-64,Lithuania,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2004
+15-64,Norway,Amphetamines,HHS,,1.1,Europe,ARQ,Western and Central Europe,2004
+15-64,Slovakia,Amphetamines,HHS,,0.2,Europe,ARQ,Western and Central Europe,2004
+15-64,Netherlands,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2005
+15-64,Italy,Amphetamines,HHS,,0.4,Europe,EMCDDA,Western and Central Europe,2005
+15-64,Poland,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2006
+15-64,Slovakia,Amphetamines,HHS,,0.3,Europe,EMCDDA,Western and Central Europe,2006
+15-64,United Kingdom (Northern Ireland),Amphetamines,HHS,,1,Europe,Government source,Western and Central Europe,2006
+18-64,Germany,Amphetamines,HHS,,0.5,Europe,Government source,Western and Central Europe,2006
+15-64,Portugal,Amphetamines,HHS,,0.2,Europe,ARQ,Western and Central Europe,2007
+15-64,Ireland,Amphetamines,HHS,,0.4,Europe,Government source,Western and Central Europe,2007
+18-64,Hungary,Amphetamines,HHS,,0.5,Europe,ARQ,Western and Central Europe,2007
+15-64,Lithuania,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2008
+15-64,Sweden,Amphetamines,HHS,,0.8,Europe,ARQ,Western and Central Europe,2008
+15-64,Italy,Amphetamines,HHS,,0.4,Europe,EMCDDA,Western and Central Europe,2008
+15-64,Netherlands,Amphetamines,HHS,,0.4,Europe,ARQ,Western and Central Europe,2009
+15-64,Norway,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2009
+15-64,Spain,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2009
+18-64,Germany,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2009
+15-64,Poland,Amphetamines,HHS,,1.9,Europe,ARQ,Western and Central Europe,2010
+15-64,Slovakia,Amphetamines,HHS,,0.12,Europe,EMCDDA,Western and Central Europe,2010
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2010/11. Crime Survey for England and Wales.,1.1,Europe,Government source,Western and Central Europe,2010
+16-64,United Kingdom (Scotland),Amphetamines,HHS,Data refers to 2009/10,1.2,Europe,Government source,Western and Central Europe,2010
+15-64,Ireland,Amphetamines,HHS,,0.4,Europe,ARQ,Western and Central Europe,2011
+15-64,Latvia,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2011
+15-64,Spain,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2011
+15-64,United Kingdom (Northern Ireland),Amphetamines,HHS,Data refers to 2010/11,1.1,Europe,Government source,Western and Central Europe,2011
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2011/12. Crime Survey for England and Wales.,0.8,Europe,Government source,Western and Central Europe,2011
+16-64,United Kingdom (Scotland),Amphetamines,HHS,Data refers to 2010/11,1.2,Europe,Government source,Western and Central Europe,2011
+15+,Switzerland,Amphetamines,HHS,,0.08,Europe,ARQ,Western and Central Europe,2012
+15-64,Italy,Amphetamines,HHS,,0.09,Europe,ARQ,Western and Central Europe,2012
+15-64,Lithuania,Amphetamines,HHS,,0.2,Europe,ARQ,Western and Central Europe,2012
+15-64,Poland,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2012
+15-64,Portugal,Amphetamines,HHS,,0.05,Europe,ARQ,Western and Central Europe,2012
+15-64,Slovenia,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2012
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2012/13. Crime Survey for England and Wales.,0.7,Europe,Government source,Western and Central Europe,2012
+18-64,Germany,Amphetamines,HHS,,0.7,Europe,ARQ,Western and Central Europe,2012
+15-64,Spain,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2013
+15-64,Switzerland,Amphetamines,HHS,,0.27,Europe,ARQ,Western and Central Europe,2013
+15-64,Italy,Amphetamines,HHS,Data refers to 2013/2014,0.2,Europe,ARQ,Western and Central Europe,2013
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2013/14. Crime Survey for England and Wales.,0.8,Europe,ARQ,Western and Central Europe,2013
+16-64,Norway,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2013
+16-64,United Kingdom (Scotland),Amphetamines,HHS,Data refers to 2012/13,0.9,Europe,Government source,Western and Central Europe,2013
+17-64,Sweden,Amphetamines,HHS,,0.72,Europe,ARQ,Western and Central Europe,2013
+15-64,France,Amphetamines,HHS,,0.3,Europe,ARQ,Western and Central Europe,2014
+15-64,Poland,Amphetamines,HHS,Data refers to 2014/2015,0.2,Europe,ARQ,Western and Central Europe,2014
+15-64,United Kingdom (Northern Ireland),Amphetamines,HHS,Data refers to 2014/15,0.5,Europe,Government source,Western and Central Europe,2014
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2014/15. Amphetamine. Crime Survey for England and Wales,0.6,Europe,ARQ,Western and Central Europe,2014
+16-64,Netherlands,Amphetamines,HHS,,1.3,Europe,ARQ,Western and Central Europe,2014
+16-64,Norway,Amphetamines,HHS,,0.6,Europe,ARQ,Western and Central Europe,2014
+16-64,United Kingdom (Scotland),Amphetamines,HHS,Data refers to 2014/15. Amphetamine and crystal methamphetamine,0.82,Europe,Government source,Western and Central Europe,2014
+15 - 64,Ireland,Amphetamines,HHS,Amphetamine. Data for 2014-15,0.3,Europe,ARQ,Western and Central Europe,2015
+15 - 64,Spain,Amphetamines,HHS,Amphetamine and methamphetamine,0.56,Europe,Government source / UNODC Estimate,Western and Central Europe,2015
+15-64,Slovakia,Amphetamines,HHS,,0.4,Europe,ARQ,Western and Central Europe,2015
+15-64,Latvia,Amphetamines,HHS,Amphetamine,0.3,Europe,ARQ,Western and Central Europe,2015
+15-64,Netherlands,Amphetamines,HHS,,1.6,Europe,EMCDDA,Western and Central Europe,2015
+15-64,Switzerland,Amphetamines,HHS,"Speed, amphetamine sulphate, crystal meth, other amphetamines",0.43,Europe,UNODC Estimate,Western and Central Europe,2015
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Data refers to 2015/16. Amphetamine. Crime Survey for England and Wales,0.6,Europe,Government source,Western and Central Europe,2015
+16-64,Norway,Amphetamines,HHS,Amphetamine,0.2,Europe,ARQ,Western and Central Europe,2015
+18-64,Hungary,Amphetamines,HHS,Amphetamine,0.45,Europe,ARQ,Western and Central Europe,2015
+18-64,Germany,Amphetamines,HHS,Amphetamine and Methamphetamine,1.1,Europe,ARQ/Academic,Western and Central Europe,2015
+15 - 64,Lithuania,Amphetamines,HHS,Amphetamine,0.3,Europe,ARQ,Western and Central Europe,2016
+15 - 64,Poland,Amphetamines,HHS,Amphetamine,1.7,Europe,ARQ,Western and Central Europe,2016
+15-64,Switzerland,Amphetamines,HHS,"Speed, amphetamine sulphate, crystal meth, other amphetamines",0.32,Europe,UNODC Estimate,Western and Central Europe,2016
+16 - 64,Norway,Amphetamines,HHS,Amphetamine,0.3,Europe,ARQ,Western and Central Europe,2016
+16-59,United Kingdom (England and Wales),Amphetamines,HHS,Includes methamphetamine. Data refers to 2016/17.,0.5,Europe,Government source,Western and Central Europe,2016
+15-64,Iceland,Amphetamines,SS,,0.74,Europe,ESPAD,Western and Central Europe,2003
+15-64,Luxembourg,Amphetamines,SS,Data refers to 2005/06,0.98,Europe,ARQ,Western and Central Europe,2006
+15-64,Malta,Amphetamines,SS,,0.88,Europe,ESPAD,Western and Central Europe,2007
+15-64,Slovenia,Amphetamines,SS,,0.51,Europe,ESPAD,Western and Central Europe,2007
+15-64,Sweden,Amphetamines,SS,,0.39,Europe,ESPAD,Western and Central Europe,2007
+15-64,Switzerland,Amphetamines,SS,,0.63,Europe,ESPAD,Western and Central Europe,2007
+15-64,Luxembourg,Amphetamines,SS,,0.73,Europe,ARQ,Western and Central Europe,2010
+15-64,Iceland,Amphetamines,SS,,0.93,Europe,ESPAD,Western and Central Europe,2011
+15-64,Malta,Amphetamines,SS,,0.93,Europe,ESPAD,Western and Central Europe,2011
+15-64,Slovenia,Amphetamines,SS,,0.72,Europe,ESPAD,Western and Central Europe,2011
+15-64,Iceland,Amphetamines,SS,,0.78,Europe,ESPAD/UNODC Estimate,Western and Central Europe,2015
+15-64,New Zealand,Amphetamines,HHS,,2.3,Oceania,ARQ,Australia and New Zealand,2006
+15-64,Australia,Amphetamines,HHS,,2.7,Oceania,Government source,Australia and New Zealand,2007
+16-64,New Zealand,Amphetamines,HHS,,2.1,Oceania,Government source,Australia and New Zealand,2007
+14+,Australia,Amphetamines,HHS,,2.1,Oceania,ARQ,Australia and New Zealand,2010
+14+,Australia,Amphetamines,HHS,Methamphetamine,2.1,Oceania,Government source,Australia and New Zealand,2013
+15-64,New Zealand,Amphetamines,HHS,2013/14 New Zealand Health Survey,1.1,Oceania,Government source,Australia and New Zealand,2014
+14+,Australia,Amphetamines,HHS,Amphetamine and methamphetamine,1.4,Oceania,ARQ,Australia and New Zealand,2016
+16-64,New Zealand,Amphetamines,HHS,Data for 2015-16.,1.1,Oceania,ARQ,Australia and New Zealand,2016
+16-64,New Zealand,Amphetamines,HHS,Data for 2016-17.,1,Oceania,Government source,Australia and New Zealand,2017
