@@ -1,0 +1,218 @@
+﻿Age,Country,Drug Group,Method,Notes,Prevalence,Region,Source,Sub-Region,Year
+15-64,Kenya,Opiates,I,,0.73,Africa,Reference Group to the UN on HIV and IDU,Eastern Africa,2004
+15-64,Kenya,Opiates,I,Problem opiate users,0.22,Africa,Government Report,Eastern Africa,2012
+15-54,Mauritius,Opiates,I,,0.91,Africa,ARQ,Eastern Africa,2007
+15-64,Rwanda,Opiates,,Opiates,0.14,Africa,Cure Research estimate,Eastern Africa,2004
+15-64,Seychelles,Opiates,,Opiates,2.3,Africa,Government Source,Eastern Africa,2011
+15-64,Somalia,Opiates,,Opiates,0.16,Africa,Cure Research estimate,Eastern Africa,2004
+15-64,Uganda,Opiates,,Opiates,0.05,Africa,Cure Research estimate,Eastern Africa,2004
+15-64,Algeria,Opiates,,Opiates,0.12,Africa,UNODC Estimate,Northern Africa,2004
+12+,Algeria,Opiates,HHS,Opiates,0.06,Africa,ARQ,Northern Africa,2010
+15-64,Egypt,Opiates,"HHS, SS",Opiates,0.44,Africa,Govt; Academic Research,Northern Africa,2006
+15-64,Libya,Opiates,,Opiates,0.14,Africa,UNODC Estimate,Northern Africa,2004
+15-64,Morocco,Opiates,,Opiates,0.02,Africa,ARQ,Northern Africa,2004
+15-64,Morocco,Opiates,I,People who inject drugs,0.08,Africa,Government Report,Northern Africa,2011
+15-64,Morocco,Opiates,I,People who inject drugs,0.01,Africa,UNAIDS/GARPR,Northern Africa,2014
+15-64,Tunisia,Opiates,I,Problem opiate users,0.12,Africa,Government Report,Northern Africa,2011
+15-64,South Africa,Opiates,HHS,Opiates,0.41,Africa,ARQ,Southern and South-Eastern Africa,2008
+15-64,Swaziland,Opiates,,Opiates,0.17,Africa,Cure Research estimate,Southern and South-Eastern Africa,2004
+15-64,Zambia,Opiates,,Opiates,0.37,Africa,UNODC Estimate,Southern and South-Eastern Africa,2003
+15-64,Zimbabwe,Opiates,,Opiates,0.04,Africa,Cure Research estimate,Southern and South-Eastern Africa,2004
+15-64,Cabo Verde,Opiates,,Opiates,0.18,Africa,UNODC Estimate,West and Central Africa,2004
+15-64,Central African Republic,Opiates,,Opiates,0.05,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Chad,Opiates,,Opiates,0.22,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Congo,Opiates,,Opiates,0.13,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Democratic Republic of the Congo,Opiates,,Opiates,0.13,Africa,Cure Research estimate,West and Central Africa,2004
+15-65,Ghana,Opiates,,Opiates,0.14,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Liberia,Opiates,,Opiates,0.17,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Niger,Opiates,I,Problem opiate users,0.2,Africa,Reference Group to the UN on HIV and IDU,West and Central Africa,2004
+15-64,Nigeria,Opiates,,Opiates,0.7,Africa,UNODC Estimate,West and Central Africa,2008
+15-64,Senegal,Opiates,SS,Opiates,0.08,Africa,UNODC Estimate,West and Central Africa,2006
+15-64,Sierra Leone,Opiates,,Opiates,0.17,Africa,Cure Research estimate,West and Central Africa,2004
+15-64,Bahamas,Opiates,,,0.22,Americas,UNODC Estimate,Caribbean,2003
+15-64,Barbados,Opiates,,Opiates,0.11,Americas,UNODC Estimate,Caribbean,2006
+15-64,Dominican Republic,Opiates,,,0.11,Americas,UNODC Estimate,Caribbean,2001
+15-64,Dominican Republic,Opiates,SS,,0.07,Americas,UNODC Estimate,Caribbean,2008
+15-64,Haiti,Opiates,SS,,0.07,Americas,ARQ,Caribbean,2006
+15-64,Jamaica,Opiates,,,0.1,Americas,UNODC Estimate,Caribbean,2001
+15-64,Jamaica,Opiates,SS,Opiates,0.7,Americas,UNODC Estimate,Caribbean,2006
+12-65,Belize,Opiates,HHS,Opiates,0.3,Americas,CICAD/MEM,Central America (excluding Mexico),2005
+12-70,Costa Rica,Opiates,HHS,,0.09,Americas,ARQ,Central America (excluding Mexico),2006
+12-70,Costa Rica,Opiates,HHS,,0,Americas,ARQ,Central America (excluding Mexico),2010
+15 - 64,Costa Rica,Opiates,HHS,Heroin,0.04,Americas,ARQ,Central America (excluding Mexico),2015
+15-64,El Salvador,Opiates,HHS,,0.11,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+15-65,Guatemala,Opiates,,Opiates,0.04,Americas,ARQ,Central America (excluding Mexico),2005
+15-64,Honduras,Opiates,HHS,Opiates,0.15,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+12-65,Nicaragua,Opiates,HHS,Opiates,0.02,Americas,CICAD/MEM,Central America (excluding Mexico),2006
+16-65,Bermuda,Opiates,HHS,,0.15,Americas,Government source,Northern America (including Mexico),2009
+12-65,Mexico,Opiates,HHS,,0.04,Americas,ARQ,Northern America (including Mexico),2008
+12-65,Mexico,Opiates,HHS,,0.18,Americas,Government source,Northern America (including Mexico),2011
+15-64,United States of America,Opiates,HHS/I,Heroin from NSDUH and chronic heroin user estimations (ONDCP),0.73,Americas,UNODC Estimate,Northern America (including Mexico),2010
+15-64,United States of America,Opiates,HHS/I,Heroin from NSDUH and chronic heroin user estimations (ONDCP),0.756,Americas,UNODC Estimate,Northern America (including Mexico),2013
+15-64,United States of America,Opiates,HHS/I,Heroin from NSDUH and chronic heroin user estimations (ONDCP),0.931,Americas,UNODC Estimate,Northern America (including Mexico),2015
+15-64,United States of America,Opiates,HHS/I,Heroin from NSDUH and chronic heroin user estimations (ONDCP),1.04,Americas,UNODC Estimate,Northern America (including Mexico),2016
+15-64,Argentina,Opiates,,,0.13,Americas,UNODC Estimate,South America,2007
+15-64,Argentina,Opiates,,,0.07,Americas,UNODC Estimate,South America,2010
+15-64,Bolivia (Plurinational State of),Opiates,,,0.07,Americas,UNODC Estimate,South America,2004
+15-64,Brazil,Opiates,HHS,Heroin,0.1,Americas,ARQ,South America,2016
+15-64,Chile,Opiates,HHS,,0.1,Americas,HHS,South America,2008
+15-64,Chile,Opiates,HHS,,0.02,Americas,ARQ,South America,2010
+15-64,Chile,Opiates,HHS,,0.02,Americas,ARQ,South America,2014
+15-64,Chile,Opiates,HHS,,0,Americas,ARQ,South America,2016
+15-64,Colombia,Opiates,,,0.02,Americas,UNODC Estimate,South America,2004
+12-64,Colombia,Opiates,HHS,,0.02,Americas,ARQ,South America,2008
+12-65,Colombia,Opiates,HHS,Opiates,0.03,Americas,Government source,South America,2013
+15-64,Ecuador,Opiates,,,0.12,Americas,UNODC Estimate,South America,2005
+12-65,Ecuador,Opiates,HHS,,0.07,Americas,ARQ,South America,2007
+12-65,Ecuador,Opiates,HHS,Opiates,0.02,Americas,ARQ,South America,2013
+12-65,Paraguay,Opiates,HHS,Opiates,0.03,Americas,ARQ,South America,2003
+12-64,Peru,Opiates,,Opiates,0.18,Americas,UNODC Estimate,South America,2005
+15-64,Uruguay,Opiates,HHS,,0.1,Americas,UNODC Estimate,South America,2006
+15-64,Uruguay,Opiates,HHS,,0.06,Americas,UNODC Estimate,South America,2011
+15-64,Venezuela (Bolivarian Republic of),Opiates,SS,,0.1,Americas,ARQ,South America,2003
+12-65,Venezuela (Bolivarian Republic of),Opiates,HHS,Opiates,0.03,Americas,ARQ,South America,2011
+15-64,Armenia,Opiates,,,0.2,Asia,Government Source,Central Asia and Transcaucasia,2007
+15-64,Azerbaijan,Opiates,I,,0.2,Asia,ARQ,Central Asia and Transcaucasia,2008
+15-64,Azerbaijan,Opiates,I,Problem opiate users,1.5,Asia,Government report,Central Asia and Transcaucasia,2010
+15-64,Georgia,Opiates,I,,0.31,Asia,UNODC Estimate,Central Asia and Transcaucasia,2006
+15-64,Georgia,Opiates,I,,0.72,Asia,Academic Research,Central Asia and Transcaucasia,2010
+15-64,Kazakhstan,Opiates,I,,0.89,Asia,UNODC (GAP survey),Central Asia and Transcaucasia,2006
+15-64,Kazakhstan,Opiates,I,Heroin. Benchmark multipliers.,1.03,Asia,UNODC Estimate,Central Asia and Transcaucasia,2015
+15-64,Kyrgyzstan,Opiates,I,,0.74,Asia,UNODC (GAP survey),Central Asia and Transcaucasia,2006
+15-64,Kyrgyzstan,Opiates,I,Heroin. Benchmark multipliers.,0.89,Asia,UNODC Estimate,Central Asia and Transcaucasia,2015
+15-64,Tajikistan,Opiates,I,,0.54,Asia,UNODC (GAP survey),Central Asia and Transcaucasia,2006
+15-64,Tajikistan,Opiates,I,Heroin. Benchmark multipliers.,0.52,Asia,UNODC Estimate,Central Asia and Transcaucasia,2015
+15-64,Turkmenistan,Opiates,,,0.32,Asia,ARQ,Central Asia and Transcaucasia,2007
+15-64,Uzbekistan,Opiates,I,,0.78,Asia,UNODC (GAP survey),Central Asia and Transcaucasia,2006
+15-64,Uzbekistan,Opiates,I,Heroin. Benchmark multipliers.,0.93,Asia,UNODC Estimate,Central Asia and Transcaucasia,2015
+15-64,Cambodia,Opiates,I,,0.03,Asia,INCSR/ Reference Group to the UN on HIV and IDU,East and South-East Asia,2004
+15-64,Cambodia,Opiates,I,Problem opiate users,0.04,Asia,Government source,East and South-East Asia,2007
+15-64,China,Opiates,I,Problem opiate users,0.25,Asia,Academic research/ Reference Group to the UN on HI,East and South-East Asia,2005
+15-64,China,Opiates,I,Problem opiate users,0.19,Asia,UNAIDS,East and South-East Asia,2012
+15-64,"China, Hong Kong SAR",Opiates,,Opiates,0.2,Asia,ARQ,East and South-East Asia,2006
+12-64,"China, Taiwan Province of China",Opiates,,Opiates,0.2,Asia,Government source,East and South-East Asia,2005
+15-64,Indonesia,Opiates,,Problem opiate users,0.16,Asia,ARQ,East and South-East Asia,2005
+15-64,Indonesia,Opiates,I,Problem opiate users,0.11,Asia,ARQ,East and South-East Asia,2010
+15-64,Indonesia,Opiates,I,Problem opiate users,0.01,Asia,ARQ,East and South-East Asia,2014
+15-64,Lao People's Democratic Republic,Opiates,HHS,Opiates,0.37,Asia,UNODC (ICMP),East and South-East Asia,2008
+15-64,Malaysia,Opiates,I,Problem opiate users,0.94,Asia,SMART,East and South-East Asia,2009
+15-64,Myanmar,Opiates,HHS,Opiates,0.8,Asia,UNODC (ICMP),East and South-East Asia,2010
+10-64,Philippines,Opiates,HHS,,0.01,Asia,ARQ,East and South-East Asia,2008
+15-64,Philippines,Opiates,I,Problem opiate users,0.04,Asia,Government Report,East and South-East Asia,2011
+15-64,Republic of Korea,Opiates,HHS,,0,Asia,ARQ,East and South-East Asia,2004
+15-64,Singapore,Opiates,R,Opiates,0.01,Asia,ARQ,East and South-East Asia,2006
+15-64,Singapore,Opiates,I,,0.32,Asia,UNODC Estimate,East and South-East Asia,2010
+15-64,Thailand,Opiates,HHS,Opiates,0.2,Asia,ARQ,East and South-East Asia,2007
+15-64,Viet Nam,Opiates,,,0.27,Asia,INCSR/ Reference Group to the UN on HIV and IDU,East and South-East Asia,2005
+15-64,Viet Nam,Opiates,I,Problem opiate users,0.53,Asia,Government source,East and South-East Asia,2011
+15-64,Afghanistan,Opiates,HHS,,2.65,Asia,UNODC/ Govt. Source,Near and Middle East/ South-West Asia,2009
+15-64,Iran (Islamic Republic of),Opiates,,Opiates,2.26,Asia,ARQ,Near and Middle East/ South-West Asia,2010
+15-64,Iran (Islamic Republic of),Opiates,,Opium and heroin,1.76,Asia,Government source,Near and Middle East/ South-West Asia,2011
+18+,Iran (Islamic Republic of),Opiates,NSUM,"Opium, opium residue and heroin",2.69,Asia,Academic/UNODC Estimate,Near and Middle East/ South-West Asia,2013
+15-64,Iran (Islamic Republic of),Opiates,HHS,"Heroin, opium, opium remnant and opium residue",3.309176699,Asia,Government source/UNODC Estimate,Near and Middle East/ South-West Asia,2015
+18-40,Israel,Opiates,HHS,,0.53,Asia,ARQ,Near and Middle East/ South-West Asia,2009
+18-65,Israel,Opiates,HHS,Opium and heroin,0.4,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2016
+15-64,Kuwait,Opiates,,Opiates,0.17,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2004
+15-64,Lebanon,Opiates,,Opiates,0.2,Asia,ARQ,Near and Middle East/ South-West Asia,2003
+15-64,Pakistan,Opiates,,,0.57,Asia,UNODC (GAP survey),Near and Middle East/ South-West Asia,2006
+15-64,Pakistan,Opiates,,,1,Asia,Government/UNODC,Near and Middle East/ South-West Asia,2012
+15-64,Saudi Arabia,Opiates,,Opiates,0.06,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2006
+,Syrian Arab Republic,Opiates,,Opiates,0.02,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2005
+15-64,United Arab Emirates,Opiates,,Opiates,0.02,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2004
+15-64,Bangladesh,Opiates,HHS,,0.37,Asia,ARQ,Southern Asia,2003
+15-64,Maldives,Opiates,HHS,Includes prescription opioids,1.34,Asia,Government source,Southern Asia,2012
+15-64,Nepal,Opiates,"I, b",Problem opiate users,0.24,Asia,Government source,Southern Asia,2006
+15-64,Sri Lanka,Opiates,,Opiates,0.11,Asia,ARQ,Southern Asia,2006
+15-64,Sri Lanka,Opiates,I,Opiates,0.33,Asia,ARQ,Southern Asia,2010
+15-64,Sri Lanka,Opiates,I,,0.3,Asia,Government source,Southern Asia,2016
+15-64,Belarus,Opiates,R,,0.39,Europe,UNODC Estimate,Eastern Europe,2007
+15-64,Belarus,Opiates,I,Problem opiate users,0.59,Europe,UNODC Estimate,Eastern Europe,2011
+15-64,Belarus,Opiates,I,Problem opiate users,0.7646,Europe,ARQ,Eastern Europe,2016
+15-64,Republic of Moldova,Opiates,"R, HHS",Opiates,0.15,Europe,Government source,Eastern Europe,2008
+15-64,Republic of Moldova,Opiates,I,Problem opiate users,0.12,Europe,ARQ,Eastern Europe,2011
+15-64,Russian Federation,Opiates,I,Opiates,1.64,Europe,UNODC Estimate,Eastern Europe,2007
+15-64,Russian Federation,Opiates,I,"Number of persons in treatment for heroin use disorders, adjusted with a (latency) multiplier of 5.",1.4,Europe,Government source,Eastern Europe,2010
+15-64,Ukraine,Opiates,I,,1.16,Europe,Reference Group to the UN on HIV and IDU,Eastern Europe,2006
+15-64,Ukraine,Opiates,I,Problem opiate users,0.91,Europe,ARQ,Eastern Europe,2009
+15-64,Ukraine,Opiates,I,Problem opiate users,1.05,Europe,Government source,Eastern Europe,2012
+15-64,Albania,Opiates,R,Problem opiate users,0.45,Europe,ARQ,South-Eastern Europe (including Turkey),2007
+15-64,Bosnia and Herzegovina,Opiates,I,Problem opiate users,0.3,Europe,Reference Group to the UN on HIV and IDU,South-Eastern Europe (including Turkey),2005
+15-64,Bosnia and Herzegovina,Opiates,I,Problem opiate users,0.3,Europe,ARQ,South-Eastern Europe (including Turkey),2009
+15-64,Bulgaria,Opiates,I,,0.29,Europe,ARQ,South-Eastern Europe (including Turkey),2008
+15-64,Bulgaria,Opiates,I,Opiates,0.5,Europe,ARQ,South-Eastern Europe (including Turkey),2011
+15-64,Croatia,Opiates,I,,0.36,Europe,ARQ,South-Eastern Europe (including Turkey),2006
+15-64,Croatia,Opiates,I,Problem opiate users,0.36,Europe,EMCDDA,South-Eastern Europe (including Turkey),2010
+15-64,Croatia,Opiates,I,Problem opiate users,0.35,Europe,ARQ,South-Eastern Europe (including Turkey),2012
+15-64,Romania,Opiates,I,Problem opiate users,0.11,Europe,ARQ,South-Eastern Europe (including Turkey),2011
+15-64,Romania,Opiates,I,Problem opiate users,0.167,Europe,ARQ,South-Eastern Europe (including Turkey),2016
+15-64,Serbia,Opiates,I,Problem opiate users,0.28,Europe,ARQ,South-Eastern Europe (including Turkey),2008
+18-64,Serbia,Opiates,HHS,,0.1,Europe,Government sources,South-Eastern Europe (including Turkey),2014
+15-64,The former Yugoslav Republic of Macedonia,Opiates,,Includes prescription opioids,0.4,Europe,ARQ,South-Eastern Europe (including Turkey),2005
+15-64,Turkey,Opiates,I,Problem opiate users,0.05,Europe,EMCDDA,South-Eastern Europe (including Turkey),2008
+15-64,Turkey,Opiates,I,Problem opiate users,0.03,Europe,EMCDDA,South-Eastern Europe (including Turkey),2010
+15-64,Turkey,Opiates,I,Problem opiate users,0.03,Europe,EMCDDA,South-Eastern Europe (including Turkey),2011
+15-64,Cyprus,Opiates,I,Problem opiate users,0.12,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Cyprus,Opiates,I,Problem opiate users,0.15,Europe,EMCDDA,Western and Central Europe,2013
+15-64,Cyprus,Opiates,I,Problem opiate users,0.18,Europe,EMCDDA,Western and Central Europe,2014
+15-64,Cyprus,Opiates,I,Problem opiate users,0.246,Europe,EMCDDA,Western and Central Europe,2015
+15-64,Denmark,Opiates,I,,0.6,Europe,ARQ,Western and Central Europe,2005
+15-64,Denmark,Opiates,I,Problem opiate users,0.52,Europe,Government source,Western and Central Europe,2009
+15-64,Slovakia,Opiates,HHS,,0.3,Europe,ARQ,Western and Central Europe,2006
+15-64,Germany,Opiates,HHS,,0.13,Europe,ARQ,Western and Central Europe,2009
+15-64,Poland,Opiates,HHS,"Includes ""Kompot""",0.3,Europe,ARQ,Western and Central Europe,2010
+15-64,Poland,Opiates,HHS,Problem opiate users,0.1,Europe,ARQ,Western and Central Europe,2012
+15-64,Italy,Opiates,HHS,Data refers to 2013/14. Problem opiate users.,0.8,Europe,Government source,Western and Central Europe,2013
+18-64,Hungary,Opiates,HHS,Includes poppy tea,0.13,Europe,ARQ,Western and Central Europe,2015
+15 - 64,Poland,Opiates,HHS,"Includes ""Kompot""",1.7,Europe,ARQ,Western and Central Europe,2016
+15-64,Luxembourg,Opiates,I,,0.93,Europe,EMCDDA,Western and Central Europe,2000
+15-64,Ireland,Opiates,I,,0.5,Europe,ARQ,Western and Central Europe,2001
+15-64,United Kingdom (Northern Ireland),Opiates,I,,0.12,Europe,EMCDDA,Western and Central Europe,2004
+15-64,Ireland,Opiates,I,Problem opiate users,0.72,Europe,EMCDDA,Western and Central Europe,2006
+15-64,Lithuania,Opiates,I,Problem opiate users,0.1,Europe,Government source,Western and Central Europe,2006
+15-64,Portugal,Opiates,I,,0.38,Europe,ARQ,Western and Central Europe,2007
+15-64,Luxembourg,Opiates,I,Problem heroin users,0.59,Europe,ARQ/EMCDDA,Western and Central Europe,2007
+15-64,Lithuania,Opiates,I,Problem opiate users,0.24,Europe,EMCDDA,Western and Central Europe,2007
+15-64,Netherlands,Opiates,I,,0.16,Europe,EMCDDA,Western and Central Europe,2008
+15-64,Norway,Opiates,I,Problem opiate users,0.3,Europe,EMCDDA,Western and Central Europe,2008
+15-64,Slovakia,Opiates,I,Problem opiate users,0.13,Europe,EMCDDA,Western and Central Europe,2008
+15-64,Hungary,Opiates,I,,0.05,Europe,ARQ,Western and Central Europe,2009
+15-64,United Kingdom (Scotland),Opiates,I,Data refers to 2009/10. Problem opiate users,1.52,Europe,EMCDDA/UNODC Estimate,Western and Central Europe,2009
+15-64,United Kingdom (England and Wales),Opiates,I,Data refers to 2010/11. Problem opiate users. Includes data for 2009/10 for Wales,0.75,Europe,EMCDDA/UNODC Estimate,Western and Central Europe,2010
+15-64,France,Opiates,I,,0.36,Europe,UNODC Estimate,Western and Central Europe,2010
+15-64,France,Opiates,I,Problem opiate users,0.52,Europe,ARQ,Western and Central Europe,2011
+15-64,Hungary,Opiates,I,Problem opiate users,0.05,Europe,EMCDDA,Western and Central Europe,2011
+15-64,Slovenia,Opiates,I,Problem opiate users,0.44,Europe,EMCDDA,Western and Central Europe,2011
+15-64,United Kingdom (England and Wales),Opiates,I,Data refers to 2011/12. Problem opiate users. Includes data for 2009/10 for Wales,0.73,Europe,EMCDDA/UNODC Estimate,Western and Central Europe,2011
+15-64,Latvia,Opiates,I,,0.49,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Malta,Opiates,I,Problem Opiate users,0.62,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Greece,Opiates,I,Problem opiate users,0.23,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Netherlands,Opiates,I,Problem opiate users,0.13,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Portugal,Opiates,I,Problem opiate users,0.49,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Slovenia,Opiates,I,Problem opiate users,0.49,Europe,EMCDDA,Western and Central Europe,2012
+15-64,Spain,Opiates,I,Problem opiate users,0.21,Europe,Government Source,Western and Central Europe,2012
+15-64,United Kingdom (Scotland),Opiates,I,Data refers to 2012/13. Estimated as 90% of opiate and benzodiazepine users DORIS,1.51,Europe,"Information Services Division, Scotland",Western and Central Europe,2012
+18-64,Germany,Opiates,I,Problem Opiate users,0.32,Europe,ARQ,Western and Central Europe,2012
+15-64,Norway,Opiates,I,Problem opiate users,0.27,Europe,ARQ,Western and Central Europe,2013
+15-64,Poland,Opiates,I,Problem opiate users,0.1,Europe,ARQ,Western and Central Europe,2013
+15-64,Greece,Opiates,I,Problem opiate users,0.22,Europe,EMCDDA,Western and Central Europe,2013
+15-64,Latvia,Opiates,I,Problem opiate users,0.62,Europe,EMCDDA,Western and Central Europe,2013
+15-64,Germany,Opiates,I,Problem opiate users,0.21,Europe,Government source,Western and Central Europe,2013
+15-64,Spain,Opiates,I,Problem opiate users,0.21,Europe,Government source and ARQ,Western and Central Europe,2013
+15 - 64,Spain,Opiates,I,Problem heroin users,0.21,Europe,ARQ,Western and Central Europe,2014
+15-64,Germany,Opiates,I,Problem opiate users,0.22,Europe,ARQ,Western and Central Europe,2014
+15-64,Poland,Opiates,I,Problem opiate users,0.06,Europe,ARQ,Western and Central Europe,2014
+15-64,Italy,Opiates,I,Problem heroin users,0.52,Europe,EMCDDA,Western and Central Europe,2014
+15-64,Greece,Opiates,I,Problem opiate users,0.24,Europe,EMCDDA,Western and Central Europe,2014
+15-64,Latvia,Opiates,I,Problem opiate users,0.47,Europe,EMCDDA,Western and Central Europe,2014
+15-64,Malta,Opiates,I,Problem opiate users,0.57,Europe,EMCDDA,Western and Central Europe,2014
+15-64,Malta,Opiates,I,Daily heroin users,0.59,Europe,ARQ,Western and Central Europe,2015
+15-64,Greece,Opiates,I,Problem opiate users,0.227,Europe,ARQ,Western and Central Europe,2015
+15-64,Switzerland,Opiates,I,Opiates,0.43,Europe,Government source,Western and Central Europe,2015
+15-64,Latvia,Opiates,I,Problem opiate users,0.49,Europe,Government source,Western and Central Europe,2016
+15-64,Liechtenstein,Opiates,SS,Mainly opiates,0.2,Europe,ARQ,Western and Central Europe,2005
+15-45,New Zealand,Opiates,,,0.42,Oceania,ARQ,Australia and New Zealand,2006
+15-64,Australia,Opiates,HHS,,0.2,Oceania,ARQ,Australia and New Zealand,2007
+16-64,New Zealand,Opiates,HHS,"Heroin, Opium, Homebake",0.1,Oceania,Government source,Australia and New Zealand,2008
+15-64,Australia,Opiates,HHS,,0.2,Oceania,ARQ,Australia and New Zealand,2010
+14+,Australia,Opiates,HHS,,0.1,Oceania,ARQ,Australia and New Zealand,2013
+14+,Australia,Opiates,HHS,Heroin,0.2,Oceania,ARQ,Australia and New Zealand,2016

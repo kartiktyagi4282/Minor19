@@ -1,0 +1,294 @@
+﻿Age,Country,Drug Group,Method,Notes,Prevalence,Region,Source,Sub-Region,Year
+15-64,Kenya,Cannabis,"SS, A",,7.1,Africa,"ARQ, NGO, Council of Europe",Eastern Africa,2004
+15-65,Kenya,Cannabis,HHS,,2.1,Africa,Govt,Eastern Africa,2007
+15 - 64,Kenya,Cannabis,HHS,,1.2,Africa,ARQ,Eastern Africa,2016
+15-64,Madagascar,Cannabis,"SS, A",,9.1,Africa,ARQ,Eastern Africa,2004
+15-54,Mauritius,Cannabis,,,3.9,Africa,ARQ,Eastern Africa,2004
+15-54,Mauritius,Cannabis,,,1.08,Africa,Government source,Eastern Africa,2009
+12+,Algeria,Cannabis,HHS,,0.52,Africa,ARQ,Northern Africa,2010
+15-64,Egypt,Cannabis,"HHS, SS",,6.24,Africa,Govt; Academic Research,Northern Africa,2006
+15-64,Morocco,Cannabis,HHS,,4.22,Africa,ARQ,Northern Africa,2004
+15-64,Tunisia,Cannabis,HHS,,2.6,Africa,ARQ,Northern Africa,2013
+15-64,South Africa,Cannabis,HHS,,4.26,Africa,ARQ,Southern and South-Eastern Africa,2008
+15-64,South Africa,Cannabis,SS,,3.65,Africa,ARQ,Southern and South-Eastern Africa,2011
+15-64,Zambia,Cannabis,SS,,9.5,Africa,Govt; Academic Research,Southern and South-Eastern Africa,2004
+15-64,Burkina Faso,Cannabis,,,2.9,Africa,UNODC Estimate,West and Central Africa,2006
+15-64,Cabo Verde,Cannabis,,,8.1,Africa,UNODC Estimate,West and Central Africa,2004
+15-64,Cabo Verde,Cannabis,HHS,,2.4,Africa,UNODC/Govt.,West and Central Africa,2012
+15-64,Liberia,Cannabis,,,3.18,Africa,UNODC Estimate,West and Central Africa,2008
+15-64,Nigeria,Cannabis,HHS,,14.3,Africa,ARQ,West and Central Africa,2008
+15-64,Sierra Leone,Cannabis,,,5.42,Africa,UNODC Estimate,West and Central Africa,2010
+15-64,Togo,Cannabis,SS,,2.73,Africa,UNODC Estimate,West and Central Africa,2006
+15-64,Togo,Cannabis,SS,,1,Africa,UNODC Estimate,West and Central Africa,2009
+15-64,Bahamas,Cannabis,SS,,4.7,Americas,UNODC Estimate,Caribbean,2003
+15-64,Bahamas,Cannabis,SS,,5.54,Americas,ARQ,Caribbean,2008
+15-64,Barbados,Cannabis,HHS,,8.3,Americas,CICAD,Caribbean,2006
+15-64,Dominican Republic,Cannabis,SS,,0.31,Americas,ARQ,Caribbean,2008
+12-65,Dominican Republic,Cannabis,HHS,,0.68,Americas,CICAD,Caribbean,2010
+15-64,Haiti,Cannabis,SS,,1.41,Americas,UNODC Estimate,Caribbean,2005
+15-64,Haiti,Cannabis,SS,,1.51,Americas,UNODC Estimate,Caribbean,2010
+12-55,Jamaica,Cannabis,,,10.7,Americas,UNODC Estimate,Caribbean,2001
+15-64,Jamaica,Cannabis,SS,,9.86,Americas,Government source,Caribbean,2006
+15-64,Jamaica,Cannabis,SS,,7.21,Americas,UNODC Estimate,Caribbean,2010
+15-64,Puerto Rico,Cannabis,SS,,4.88,Americas,Government source,Caribbean,2005
+15-64,Saint Lucia,Cannabis,SS,,9,Americas,UNODC Estimate,Caribbean,2006
+15-64,Saint Lucia,Cannabis,SS,,8.87,Americas,UNODC Estimate,Caribbean,2010
+,Trinidad and Tobago,Cannabis,,,3.7,Americas,UNODC Estimate,Caribbean,2002
+15-64,Trinidad and Tobago,Cannabis,SS,,4.66,Americas,Government source,Caribbean,2006
+15-64,Trinidad and Tobago,Cannabis,SS,,4.03,Americas,UNODC Estimate,Caribbean,2010
+12-65,Belize,Cannabis,HHS,,8.45,Americas,CICAD,Central America (excluding Mexico),2005
+12-70,Costa Rica,Cannabis,HHS,,1.02,Americas,ARQ,Central America (excluding Mexico),2006
+15-64,Costa Rica,Cannabis,HHS,,2.76,Americas,ARQ,Central America (excluding Mexico),2010
+15 - 64,Costa Rica,Cannabis,HHS,,5.18,Americas,ARQ,Central America (excluding Mexico),2015
+12-65,El Salvador,Cannabis,HHS,,0.39,Americas,CICAD,Central America (excluding Mexico),2005
+12-65,El Salvador,Cannabis,HHS,,2.03,Americas,Government source,Central America (excluding Mexico),2014
+12-65,Guatemala,Cannabis,"HHS, SS",,4.8,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+15-64,Honduras,Cannabis,SS,,1.5,Americas,UNODC Estimate,Central America (excluding Mexico),2004
+12-65,Honduras,Cannabis,SS,,0.83,Americas,UNODC Estimate,Central America (excluding Mexico),2005
+12-65,Nicaragua,Cannabis,HHS,,2.2,Americas,UNODC Estimate,Central America (excluding Mexico),2002
+12-65,Nicaragua,Cannabis,HHS,,1.07,Americas,UNODC Estimate,Central America (excluding Mexico),2006
+12-65,Panama,Cannabis,HHS,,3.55,Americas,UNODC Estimate,Central America (excluding Mexico),2003
+12-65,Panama,Cannabis,HHS,Urban areas. Cannabis herb.,0.77,Americas,ARQ,Central America (excluding Mexico),2015
+16-65,Bermuda,Cannabis,HHS,,10.9,Americas,Government source,Northern America (including Mexico),2009
+15-64,Canada,Cannabis,HHS,,12.65,Americas,ARQ,Northern America (including Mexico),2010
+15-64,Canada,Cannabis,HHS,,10.9,Americas,ARQ,Northern America (including Mexico),2011
+15-64,Canada,Cannabis,HHS,,12.2,Americas,ARQ,Northern America (including Mexico),2012
+15-64,Canada,Cannabis,HHS,,12.7,Americas,ARQ,Northern America (including Mexico),2013
+15 - 64,Canada,Cannabis,HHS,,14.73,Americas,ARQ,Northern America (including Mexico),2015
+12-65,Mexico,Cannabis,HHS,,1,Americas,Government source,Northern America (including Mexico),2008
+12-65,Mexico,Cannabis,HHS,,1.2,Americas,Government Source,Northern America (including Mexico),2011
+12-65,Mexico,Cannabis,HHS,Cannabis herb,2.1,Americas,ARQ/Government,Northern America (including Mexico),2016
+15-64,United States of America,Cannabis,HHS,,14,Americas,ARQ,Northern America (including Mexico),2010
+15-64,United States of America,Cannabis,HHS,,14,Americas,ARQ,Northern America (including Mexico),2011
+15-64,United States of America,Cannabis,HHS,,14.8,Americas,ARQ,Northern America (including Mexico),2012
+15-64,United States of America,Cannabis,HHS,,15.4,Americas,ARQ,Northern America (including Mexico),2013
+15-64,United States of America,Cannabis,HHS,,16.2,Americas,ARQ,Northern America (including Mexico),2014
+15-64,United States of America,Cannabis,HHS,Cannabis herb,16.5,Americas,ARQ,Northern America (including Mexico),2015
+15 - 64,United States of America,Cannabis,HHS,Cannabis herb,17,Americas,ARQ,Northern America (including Mexico),2016
+12-65,Argentina,Cannabis,HHS,,6.9,Americas,ARQ,South America,2006
+15-64,Argentina,Cannabis,HHS,,3.2,Americas,ARQ,South America,2011
+15 - 64,Argentina,Cannabis,HHS,Cannabis herb,8.13,Americas,ARQ,South America,2017
+12-65,Bolivia (Plurinational State of),Cannabis,HHS,,4.5,Americas,ARQ,South America,2007
+12-65,Bolivia (Plurinational State of),Cannabis,HHS,,1.27,Americas,ARQ,South America,2013
+12-65,Brazil,Cannabis,HHS,,2.6,Americas,Government source,South America,2005
+15-64,Brazil,Cannabis,HHS,,2.5,Americas,Government source,South America,2016
+15-64,Chile,Cannabis,HHS,,6.7,Americas,ARQ,South America,2008
+15-64,Chile,Cannabis,,,4.88,Americas,ARQ,South America,2010
+15-64,Chile,Cannabis,HHS,,7.47,Americas,ARQ,South America,2012
+15-64,Chile,Cannabis,HHS,,11.83,Americas,ARQ,South America,2014
+15-64,Chile,Cannabis,HHS,Cannabis herb and resin,15.1,Americas,ARQ,South America,2016
+18-65,Colombia,Cannabis,,,1.9,Americas,ARQ,South America,2003
+12-65,Colombia,Cannabis,,,2.27,Americas,ARQ,South America,2008
+12-65,Colombia,Cannabis,HHS,,3.27,Americas,ARQ,South America,2013
+12-65,Ecuador,Cannabis,HHS,,0.7,Americas,ARQ,South America,2007
+12-65,Ecuador,Cannabis,HHS,,0.67,Americas,ARQ,South America,2013
+,Guyana,Cannabis,,,2.6,Americas,UNODC Estimate,South America,2002
+15-64,Guyana,Cannabis,,,3.5,Americas,UNODC Estimate,South America,2008
+15-64,Guyana,Cannabis,SS,,4.04,Americas,UNODC Estimate,South America,2010
+12-65,Paraguay,Cannabis,,,1.6,Americas,UNODC Estimate,South America,2005
+15-64,Peru,Cannabis,HHS,,0.7,Americas,Government source,South America,2006
+12-65,Peru,Cannabis,HHS,,1.03,Americas,ARQ,South America,2010
+15-64,Suriname,Cannabis,,,2,Americas,UNODC Estimate,South America,2002
+12-65,Suriname,Cannabis,HHS,,4.25,Americas,Government source,South America,2007
+15-64,Uruguay,Cannabis,HHS,,5.6,Americas,ARQ,South America,2006
+15-64,Uruguay,Cannabis,HHS,,8.3,Americas,ARQ,South America,2011
+15-65,Uruguay,Cannabis,HHS,,9.3,Americas,ARQ,South America,2014
+15-64,Venezuela (Bolivarian Republic of),Cannabis,HHS,,0.85,Americas,Government source,South America,2005
+12-65,Venezuela (Bolivarian Republic of),Cannabis,HHS,,1.56,Americas,Government source,South America,2011
+15-64,Armenia,Cannabis,,,3.5,Asia,UNODC Estimate,Central Asia and Transcaucasia,2003
+15-65,Azerbaijan,Cannabis,,,3.5,Asia,UNODC Estimate,Central Asia and Transcaucasia,2004
+15-64,Georgia,Cannabis,SS,,1.1,Asia,ARQ,Central Asia and Transcaucasia,2005
+15-64,Georgia,Cannabis,SS,,2.7,Asia,Government source/ NGO/Academic research,Central Asia and Transcaucasia,2009
+18 - 64,Georgia,Cannabis,HHS,,3.4,Asia,ARQ,Central Asia and Transcaucasia,2015
+15-64,Kazakhstan,Cannabis,,,4.2,Asia,INCSR,Central Asia and Transcaucasia,2003
+15-64,Kazakhstan,Cannabis,SS,,2.4,Asia,ARQ,Central Asia and Transcaucasia,2012
+15-64,Uzbekistan,Cannabis,,,4.2,Asia,UNODC Estimate,Central Asia and Transcaucasia,2003
+15-64,Cambodia,Cannabis,,,3.5,Asia,UNODC Estimate,East and South-East Asia,2003
+15-64,"China, Hong Kong SAR",Cannabis,SS,,0.4,Asia,Government source,East and South-East Asia,2008
+15-64,"China, Macao SAR",Cannabis,R,,0.67,Asia,UNODC Estimate,East and South-East Asia,2003
+12-64,"China, Taiwan Province of China",Cannabis,,,0.3,Asia,AMCEWG,East and South-East Asia,2005
+10-59,Indonesia,Cannabis,HHS,,0.44,Asia,ARQ,East and South-East Asia,2008
+10-60,Indonesia,Cannabis,HHS,,0.5,Asia,ARQ,East and South-East Asia,2010
+10-60,Indonesia,Cannabis,HHS,20 of 34 provinces.,0.18,Asia,ARQ,East and South-East Asia,2015
+15-64,Japan,Cannabis,HHS,,0.3,Asia,UNODC Estimate,East and South-East Asia,2011
+15-64,Lao People's Democratic Republic,Cannabis,SS,,0.88,Asia,UNODC report,East and South-East Asia,2008
+15-64,Malaysia,Cannabis,,,1.6,Asia,UNODC Estimate,East and South-East Asia,2003
+15-64,Myanmar,Cannabis,,,0.94,Asia,UNODC Estimate,East and South-East Asia,2005
+10-64,Philippines,Cannabis,HHS,,0.74,Asia,ARQ,East and South-East Asia,2008
+10-69,Philippines,Cannabis,HHS,,0.61,Asia,ARQ,East and South-East Asia,2012
+10-69,Philippines,Cannabis,HHS,Cannabis herb. Data for 2015/16.,1.64,Asia,ARQ,East and South-East Asia,2016
+15-64,Republic of Korea,Cannabis,HHS,,0.29,Asia,ARQ,East and South-East Asia,2004
+12-65,Thailand,Cannabis,HHS,,1.2,Asia,ARQ,East and South-East Asia,2007
+15-64,Afghanistan,Cannabis,,,3.59,Asia,UNODC Study (ICMP),Near and Middle East/ South-West Asia,2005
+15-64,Afghanistan,Cannabis,HHS,,4.28,Asia,UNODC/ Govt. Source,Near and Middle East/ South-West Asia,2009
+15-64,Iran (Islamic Republic of),Cannabis,,Cannabis resin,0.17,Asia,Government source,Near and Middle East/ South-West Asia,2011
+18+,Iran (Islamic Republic of),Cannabis,NSUM,Hashish,0.61,Asia,Academic/UNODC Estimate,Near and Middle East/ South-West Asia,2013
+15-64,Iran (Islamic Republic of),Cannabis,HHS,"Grass, hashish, marijuana and Gol",0.584261168,Asia,Government source/UNODC Estimate,Near and Middle East/ South-West Asia,2015
+18-40,Israel,Cannabis,,,8.5,Asia,ARQ,Near and Middle East/ South-West Asia,2005
+18-40,Israel,Cannabis,HHS,,8.88,Asia,ARQ,Near and Middle East/ South-West Asia,2009
+18-65,Israel,Cannabis,HHS,,27,Asia,ARQ,Near and Middle East/ South-West Asia,2016
+15-64,Kuwait,Cannabis,,,3.1,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2005
+15-64,Lebanon,Cannabis,,,6.4,Asia,ARQ,Near and Middle East/ South-West Asia,2001
+15-64,Lebanon,Cannabis,SS,,2,Asia,Government source/MEDSPAD,Near and Middle East/ South-West Asia,2009
+15-64,Pakistan,Cannabis,,,3.9,Asia,INCSR,Near and Middle East/ South-West Asia,2000
+15-64,Pakistan,Cannabis,,,3.6,Asia,Government/UNODC,Near and Middle East/ South-West Asia,2012
+15-64,Saudi Arabia,Cannabis,R,,0.3,Asia,Government source/ NGO/Academic research,Near and Middle East/ South-West Asia,2006
+15-64,United Arab Emirates,Cannabis,,,5.35,Asia,UNODC Estimate,Near and Middle East/ South-West Asia,2006
+15-54,Bangladesh,Cannabis,HHS,,3.3,Asia,Academic research,Southern Asia,2004
+15-64,Bhutan,Cannabis,,,4.2,Asia,UNODC Estimate,Southern Asia,2009
+15-64,Maldives,Cannabis,,,2.55,Asia,Government source,Southern Asia,2012
+15-64,Sri Lanka,Cannabis,,,1.43,Asia,UNODC Estimate,Southern Asia,2010
+15-64,Sri Lanka,Cannabis,I,,1.42,Asia,Government source,Southern Asia,2016
+15-64,Belarus,Cannabis,SS,,1.07,Europe,ESPAD,Eastern Europe,2007
+15-64,Republic of Moldova,Cannabis,HHS,,0.9,Europe,Government source,Eastern Europe,2008
+15-64,Republic of Moldova,Cannabis,HHS,,0.7,Europe,Government source,Eastern Europe,2010
+15-64,Russian Federation,Cannabis,SS,Approximate adjustment,3.49,Europe,ESPAD/UNODC Estimate,Eastern Europe,2007
+15-64,Ukraine,Cannabis,SS,,2.5,Europe,ESPAD,Eastern Europe,2007
+15-64,Ukraine,Cannabis,SS,,2.9,Europe,UNODC Estimate,Eastern Europe,2011
+15-64,Ukraine,Cannabis,SS,,2.13,Europe,ESPAD/UNODC Estimate,Eastern Europe,2015
+15-64,Albania,Cannabis,SS,,1.8,Europe,Government source,South-Eastern Europe (including Turkey),2006
+15-64,Bosnia and Herzegovina,Cannabis,SS,,2.8,Europe,ESPAD,South-Eastern Europe (including Turkey),2007
+15-64,Bosnia and Herzegovina,Cannabis,SS,,1.6,Europe,ESPAD,South-Eastern Europe (including Turkey),2011
+15-64,Bulgaria,Cannabis,HHS,,2.2,Europe,ARQ,South-Eastern Europe (including Turkey),2007
+15-64,Bulgaria,Cannabis,HHS,,2.5,Europe,ARQ,South-Eastern Europe (including Turkey),2008
+15-64,Bulgaria,Cannabis,HHS,,3.5,Europe,ARQ,South-Eastern Europe (including Turkey),2012
+15 - 64,Bulgaria,Cannabis,Check manually,,4.2,Europe,ARQ,South-Eastern Europe (including Turkey),2016
+15-64,Croatia,Cannabis,SS,,5.18,Europe,ESPAD,South-Eastern Europe (including Turkey),2007
+15-64,Croatia,Cannabis,HHS,,5,Europe,EMCDDA,South-Eastern Europe (including Turkey),2012
+15-64,Croatia,Cannabis,HHS,,7.9,Europe,ARQ,South-Eastern Europe (including Turkey),2015
+15-64,Montenegro,Cannabis,SS,,0.23,Europe,ESPAD,South-Eastern Europe (including Turkey),2008
+15-64,Montenegro,Cannabis,SS,,1.9,Europe,ESPAD,South-Eastern Europe (including Turkey),2011
+15-64,Montenegro,Cannabis,SS,,1.82,Europe,ESPAD/UNODC Estimate,South-Eastern Europe (including Turkey),2015
+15-64,Romania,Cannabis,HHS,,0.4,Europe,ARQ,South-Eastern Europe (including Turkey),2007
+15-64,Romania,Cannabis,HHS,,0.3,Europe,ARQ,South-Eastern Europe (including Turkey),2010
+15-64,Romania,Cannabis,HHS,,2,Europe,ARQ,South-Eastern Europe (including Turkey),2013
+15 - 64,Romania,Cannabis,HHS,,3.2,Europe,ARQ,South-Eastern Europe (including Turkey),2016
+15-64,Serbia,Cannabis,HHS,,4.07,Europe,Government source,South-Eastern Europe (including Turkey),2006
+18-64,Serbia,Cannabis,HHS,,1.6,Europe,Government source,South-Eastern Europe (including Turkey),2014
+15-64,The former Yugoslav Republic of Macedonia,Cannabis,SS,,0.63,Europe,ESPAD,South-Eastern Europe (including Turkey),2008
+15-64,The former Yugoslav Republic of Macedonia,Cannabis,SS,,1.13,Europe,ESPAD/UNODC Estimate,South-Eastern Europe (including Turkey),2015
+15-64,Turkey,Cannabis,,,1.9,Europe,UNODC Estimate,South-Eastern Europe (including Turkey),2003
+15-64,Turkey,Cannabis,HHS,,0.3,Europe,EMCDDA,South-Eastern Europe (including Turkey),2011
+15-64,Austria,Cannabis,HHS,,7.5,Europe,EMCDDA,Western and Central Europe,2004
+15-64,Austria,Cannabis,HHS,,3.5,Europe,ARQ,Western and Central Europe,2008
+15-64,Austria,Cannabis,HHS,,6.4,Europe,Government source,Western and Central Europe,2015
+15-64,Belgium,Cannabis,HHS,,5,Europe,EMCDDA,Western and Central Europe,2004
+15-64,Belgium,Cannabis,HHS,,5.1,Europe,ARQ,Western and Central Europe,2008
+15-64,Belgium,Cannabis,HHS,,4.6,Europe,ARQ,Western and Central Europe,2013
+15-65,Cyprus,Cannabis,,,2.1,Europe,ARQ,Western and Central Europe,2006
+15-64,Cyprus,Cannabis,HHS,,4.4,Europe,ARQ,Western and Central Europe,2009
+15-64,Cyprus,Cannabis,HHS,,2.2,Europe,ARQ,Western and Central Europe,2012
+15 - 64,Cyprus,Cannabis,HHS,,2.2,Europe,ARQ,Western and Central Europe,2016
+15-64,Czechia,Cannabis,HHS,,15.2,Europe,Government source,Western and Central Europe,2008
+15-64,Czechia,Cannabis,HHS,,9.7,Europe,ARQ,Western and Central Europe,2010
+15-64,Czechia,Cannabis,HHS,,9.2,Europe,ARQ,Western and Central Europe,2012
+15-64,Czechia,Cannabis,HHS,,8.9,Europe,ARQ,Western and Central Europe,2013
+15-64,Czechia,Cannabis,HHS,,11.4,Europe,ARQ,Western and Central Europe,2014
+15 - 64,Czechia,Cannabis,HHS,,9.4,Europe,ARQ,Western and Central Europe,2015
+16-64,Denmark,Cannabis,HHS,,5.5,Europe,ARQ,Western and Central Europe,2008
+16-64,Denmark,Cannabis,HHS,,5.4,Europe,ARQ,Western and Central Europe,2010
+16-64,Denmark,Cannabis,HHS,,6.9,Europe,ARQ,Western and Central Europe,2013
+15-64,Estonia,Cannabis,HHS,,4.6,Europe,ARQ,Western and Central Europe,2003
+15-64,Estonia,Cannabis,HHS,,6,Europe,ARQ,Western and Central Europe,2008
+15-64,Finland,Cannabis,HHS,,3.6,Europe,ARQ,Western and Central Europe,2006
+15-64,Finland,Cannabis,HHS,,4.6,Europe,ARQ,Western and Central Europe,2010
+15-64,Finland,Cannabis,HHS,,6.8,Europe,ARQ,Western and Central Europe,2014
+15-64,Luxembourg,Cannabis,,,7.6,Europe,UNODC Estimate,Western and Central Europe,2003
+15-64,Lithuania,Cannabis,,,2.2,Europe,ARQ,Western and Central Europe,2004
+15-64,Norway,Cannabis,,,4.6,Europe,ARQ,Western and Central Europe,2004
+15-64,Greece,Cannabis,,,1.7,Europe,EMCDDA,Western and Central Europe,2004
+15-64,France,Cannabis,,,8.6,Europe,ARQ,Western and Central Europe,2005
+15-64,Netherlands,Cannabis,,,5.4,Europe,ARQ,Western and Central Europe,2005
+15-64,Latvia,Cannabis,,,4.9,Europe,ARQ,Western and Central Europe,2007
+15-64,Netherlands,Cannabis,,,7,Europe,ARQ,Western and Central Europe,2009
+15-65,Italy,Cannabis,HHS,,11.2,Europe,EMCDDA,Western and Central Europe,2005
+15-64,Poland,Cannabis,HHS,,2.7,Europe,ARQ,Western and Central Europe,2006
+15-64,Slovakia,Cannabis,HHS,,6.9,Europe,ARQ,Western and Central Europe,2006
+15-64,United Kingdom (Northern Ireland),Cannabis,HHS,,7.2,Europe,Government source,Western and Central Europe,2006
+15-64,Portugal,Cannabis,HHS,,3.6,Europe,ARQ,Western and Central Europe,2007
+15-64,Slovenia,Cannabis,HHS,,3.1,Europe,EMCDDA,Western and Central Europe,2007
+15-64,Ireland,Cannabis,HHS,,6.3,Europe,Government source,Western and Central Europe,2007
+18-64,Hungary,Cannabis,HHS,,2.3,Europe,ARQ,Western and Central Europe,2007
+18-64,Germany,Cannabis,HHS,,4.7,Europe,Government source,Western and Central Europe,2007
+15-64,Lithuania,Cannabis,HHS,,5.6,Europe,ARQ,Western and Central Europe,2008
+15-64,Switzerland,Cannabis,HHS,,3.4,Europe,ARQ,Western and Central Europe,2008
+15-64,Italy,Cannabis,HHS,,14.6,Europe,Government source,Western and Central Europe,2008
+15-64,Spain,Cannabis,HHS,,10.6,Europe,ARQ,Western and Central Europe,2009
+15–64,Norway,Cannabis,HHS,,3.8,Europe,ARQ,Western and Central Europe,2009
+18-64,Germany,Cannabis,HHS,,4.8,Europe,ARQ,Western and Central Europe,2009
+15-64,France,Cannabis,HHS,,8.4,Europe,ARQ,Western and Central Europe,2010
+15-64,Poland,Cannabis,HHS,,9.6,Europe,ARQ,Western and Central Europe,2010
+15-64,Slovakia,Cannabis,HHS,,3.63,Europe,EMCDDA,Western and Central Europe,2010
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2010/11.,6.8,Europe,Government source,Western and Central Europe,2010
+16-64,Sweden,Cannabis,HHS,,2.8,Europe,ARQ,Western and Central Europe,2010
+16-64,United Kingdom (Scotland),Cannabis,HHS,Data refers to 2009/10,7.6,Europe,Government source,Western and Central Europe,2010
+15-64,Ireland,Cannabis,HHS,,6,Europe,ARQ,Western and Central Europe,2011
+15-64,Latvia,Cannabis,HHS,,4,Europe,ARQ,Western and Central Europe,2011
+15-64,Spain,Cannabis,HHS,,9.6,Europe,ARQ,Western and Central Europe,2011
+15-64,Switzerland,Cannabis,HHS,,5.1,Europe,ARQ,Western and Central Europe,2011
+15-64,United Kingdom (Northern Ireland),Cannabis,HHS,Data refers to 2010/11,5.1,Europe,Government source,Western and Central Europe,2011
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2011/12. Crime Survey for England and Wales,6.9,Europe,Government source,Western and Central Europe,2011
+16-64,Sweden,Cannabis,HHS,,2.61,Europe,ARQ,Western and Central Europe,2011
+16-64,United Kingdom (Scotland),Cannabis,HHS,Data refers to 2010/11,7,Europe,Government source,Western and Central Europe,2011
+15+,Switzerland,Cannabis,HHS,,6.3,Europe,ARQ,Western and Central Europe,2012
+15-64,Italy,Cannabis,HHS,,4,Europe,ARQ,Western and Central Europe,2012
+15-64,Lithuania,Cannabis,HHS,,2.3,Europe,ARQ,Western and Central Europe,2012
+15-64,Poland,Cannabis,HHS,,3.8,Europe,ARQ,Western and Central Europe,2012
+15-64,Portugal,Cannabis,HHS,,2.7,Europe,ARQ,Western and Central Europe,2012
+15-64,Slovenia,Cannabis,HHS,,4.4,Europe,ARQ,Western and Central Europe,2012
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2012/13. Crime Survey for England and Wales.,6.4,Europe,Government source,Western and Central Europe,2012
+16-64,Sweden,Cannabis,HHS,,3,Europe,ARQ,Western and Central Europe,2012
+18-64,Germany,Cannabis,HHS,,4.5,Europe,ARQ,Western and Central Europe,2012
+18-67,Iceland,Cannabis,HHS,,6.6,Europe,ARQ/Government,Western and Central Europe,2012
+15-64,Malta,Cannabis,HHS,,0.9,Europe,ARQ,Western and Central Europe,2013
+15-64,Spain,Cannabis,HHS,,9.2,Europe,ARQ,Western and Central Europe,2013
+15-64,Switzerland,Cannabis,HHS,,5.7,Europe,ARQ,Western and Central Europe,2013
+15-64,Italy,Cannabis,HHS,Data refers to 2013-14,9.2,Europe,ARQ,Western and Central Europe,2013
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2013/14. Crime Survey for England and Wales.,6.6,Europe,ARQ,Western and Central Europe,2013
+16-64,Norway,Cannabis,HHS,,5.1,Europe,ARQ,Western and Central Europe,2013
+16-64,United Kingdom (Scotland),Cannabis,HHS,Data refers to 2012/13,6.5,Europe,Government source,Western and Central Europe,2013
+17-64,Sweden,Cannabis,HHS,,3.16,Europe,ARQ,Western and Central Europe,2013
+15-64,France,Cannabis,HHS,,11.1,Europe,ARQ,Western and Central Europe,2014
+15-64,Netherlands,Cannabis,HHS,,8,Europe,ARQ,Western and Central Europe,2014
+15-64,Sweden,Cannabis,HHS,,2.88,Europe,ARQ,Western and Central Europe,2014
+15-64,Switzerland,Cannabis,HHS,,6.7,Europe,ARQ,Western and Central Europe,2014
+15-64,Poland,Cannabis,HHS,Data refers to 2014/15,4.6,Europe,ARQ,Western and Central Europe,2014
+15-64,United Kingdom (Northern Ireland),Cannabis,HHS,Data refers to 2014/15,4.6,Europe,Government source,Western and Central Europe,2014
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2014/15. Crime Survey for England and Wales,6.7,Europe,ARQ,Western and Central Europe,2014
+16-64,Norway,Cannabis,HHS,,4.2,Europe,ARQ,Western and Central Europe,2014
+16-64,United Kingdom (Scotland),Cannabis,HHS,Data refers to 2014/15,6.29,Europe,Government source,Western and Central Europe,2014
+15 - 64,Spain,Cannabis,HHS,,9.5,Europe,ARQ,Western and Central Europe,2015
+15 - 64,Ireland,Cannabis,HHS,Data for 2014-15.,7.7,Europe,ARQ,Western and Central Europe,2015
+15-64,Latvia,Cannabis,HHS,,4.2,Europe,ARQ,Western and Central Europe,2015
+15-64,Slovakia,Cannabis,HHS,,4.3,Europe,ARQ,Western and Central Europe,2015
+15-64,Switzerland,Cannabis,HHS,,8.09,Europe,ARQ,Western and Central Europe,2015
+15-64,Germany,Cannabis,HHS,,6.1,Europe,ARQ/Academic,Western and Central Europe,2015
+15-64,Netherlands,Cannabis,HHS,,8.7,Europe,EMCDDA,Western and Central Europe,2015
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers to 2015/16. Crime Survey for England and Wales,6.5,Europe,Government source,Western and Central Europe,2015
+16-64,Norway,Cannabis,HHS,,4.2,Europe,ARQ,Western and Central Europe,2015
+16-64,Sweden,Cannabis,HHS,,3.2,Europe,ARQ,Western and Central Europe,2015
+18-64,Greece,Cannabis,HHS,,2.8,Europe,ARQ,Western and Central Europe,2015
+18-64,Hungary,Cannabis,HHS,,1.53,Europe,ARQ,Western and Central Europe,2015
+15 - 64,Lithuania,Cannabis,HHS,,2.7,Europe,ARQ,Western and Central Europe,2016
+15 - 64,Poland,Cannabis,HHS,,2.4,Europe,ARQ,Western and Central Europe,2016
+15-64,Switzerland,Cannabis,HHS,,9.09,Europe,Government source,Western and Central Europe,2016
+16 - 64,Norway,Cannabis,HHS,,3.9,Europe,ARQ,Western and Central Europe,2016
+16 - 64,Sweden,Cannabis,HHS,,3.4,Europe,ARQ,Western and Central Europe,2016
+16-59,United Kingdom (England and Wales),Cannabis,HHS,Data refers tor 2016/17. Crime Survey for England and Wales,6.6,Europe,Government source,Western and Central Europe,2016
+15-64,Luxembourg,Cannabis,SS,,6.6,Europe,ARQ,Western and Central Europe,2006
+15-64,Iceland,Cannabis,SS,,3.37,Europe,ESPAD,Western and Central Europe,2007
+15-64,Malta,Cannabis,SS,,4.51,Europe,ESPAD,Western and Central Europe,2007
+15-64,Luxembourg,Cannabis,SS,,5.2,Europe,ARQ,Western and Central Europe,2010
+15-64,Iceland,Cannabis,SS,,3.4,Europe,ESPAD,Western and Central Europe,2011
+15-64,Malta,Cannabis,SS,,3.1,Europe,ESPAD,Western and Central Europe,2011
+15-64,New Zealand,Cannabis,HHS,,13.25,Oceania,ARQ,Australia and New Zealand,2006
+15-64,Australia,Cannabis,HHS,,10.6,Oceania,Government source,Australia and New Zealand,2007
+16-64,New Zealand,Cannabis,HHS,,14.6,Oceania,Government source,Australia and New Zealand,2007
+16-64,New Zealand,Cannabis,HHS,2007/08 New Zealand Alcohol and Drug Use Survey,14.6,Oceania,Government source,Australia and New Zealand,2008
+14+,Australia,Cannabis,HHS,,10.3,Oceania,ARQ,Australia and New Zealand,2010
+14+,Australia,Cannabis,HHS,,10.2,Oceania,ARQ,Australia and New Zealand,2013
+15+,New Zealand,Cannabis,HHS,2012/13 New Zealand Health Survey: Drug Module,11,Oceania,Government source,Australia and New Zealand,2013
+14+,Australia,Cannabis,HHS,,10.4,Oceania,ARQ,Australia and New Zealand,2016
+15-64,New Zealand,Cannabis,HHS,Data for 2015-16.,13.73,Oceania,Government source,Australia and New Zealand,2016
+15-64,New Zealand,Cannabis,HHS,Data for 2016-17.,13.89,Oceania,Government source,Australia and New Zealand,2017
+15-64,Fiji,Cannabis,SS,,5.08,Oceania,Government source,Melanesia,2004
