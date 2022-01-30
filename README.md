@@ -20,3 +20,10 @@ The work is also an implementation of chapter tiltled ***Ch16: Assessing Impact 
 * We then geographically merged these indicators and could predict the possibility of recurring terrorist attack at a location with  an accuracy of **83%**.
 
 * Trained model on features extracted from the selected databases could predict the involvement of **potential organizations for unclaimed past attacks** .
+
+
+# Deep Diving into the datasets
+
+Below is a timeline of terrorist activites carried into in south Asia from 1970-2017 
+
+![](animation.gif)
