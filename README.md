@@ -1,11 +1,14 @@
-# About the Project 
+# Analysing And Predicting Dynamics of Terrorist Attacks
+
+## About the Project 
+
 
 This is our (Satyam Saini,Kartik Tyagi and Vidushi Tripathi ) [undergraduate thesis](https://drive.google.com/file/d/1NZqP6LaGngcYbHkZE1lsXDX4iW7jj9pJ/view?usp=sharing) for the course - **MajorProjectpart-1(15B19CI791)**.
 
 The work is also an implementation of chapter tiltled ***Ch16: Assessing Impact of Global Terrorism using Time Series Analysis*** in [Advanced Computational Techniques for Sustainable Computing](https://www.routledge.com/Advanced-Computational-Techniques-for-Sustainable-Computing/Rathi-Sinha/p/book/9780367495220
 ).
 
-# What we did?
+## What we did?
 * Examined the effects of social,economic and geographic factors on terrorism.
 
 * The indicators for the aforementioned factors were extracted from eight databases:
@@ -21,7 +24,7 @@ The work is also an implementation of chapter tiltled ***Ch16: Assessing Impact 
 
 * Trained model on features extracted from the selected databases could predict the involvement of **potential organizations for unclaimed past attacks** .
  
-# Deep Diving into the datasets
+## Deep Diving into the datasets
 
 
 Below is a timeline of terrorist activites carried into in south Asia from 1970-2017 
